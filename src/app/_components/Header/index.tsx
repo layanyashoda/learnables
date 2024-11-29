@@ -1,3 +1,7 @@
+{
+  /* eslint-disable @next/next/no-img-element */
+}
+
 import React from 'react'
 import Link from 'next/link'
 
@@ -16,7 +20,7 @@ export async function Header() {
 
   return (
     <>
-      <HeaderComponent header={header} /> 
+      <HeaderComponent header={header} />
     </>
   )
 }
