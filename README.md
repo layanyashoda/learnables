@@ -35,7 +35,7 @@
 ### Additional Tools
 - **Authentication**: Firebase Authentication
 - **Cloud Storage**: AWS S3
-- **Payment Gateway**: Stripe or PayPal
+- **Payment Gateway**: Stripe
 - **Notifications**: Firebase Cloud Messaging
 
 ## Getting Started
