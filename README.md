@@ -26,7 +26,6 @@
 ## Technology Stack
 ### Frontend
 - **Web**: React.js
-- **Mobile**: Flutter
 
 ### Backend
 - **Server**: Node.js with Express
