@@ -21,7 +21,7 @@ import { generateMeta } from '../../_utilities/generateMeta'
 export const dynamic = 'force-dynamic'
 
 import Categories from '../../_components/Categories'
-import Promotion from '../../_components/Promotion'
+// import Promotion from '../../_components/Promotion'
 
 import classes from './index.module.scss'
 
