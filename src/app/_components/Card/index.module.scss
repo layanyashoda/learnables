@@ -1,7 +1,6 @@
 @import '../../_css/common';
 
 .card {
-  border-radius: 4px;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -70,6 +69,7 @@
 }
 
 .mediaWrapper {
+  border-radius: 20px;
   text-decoration: none;
   display: block;
   position: relative;
