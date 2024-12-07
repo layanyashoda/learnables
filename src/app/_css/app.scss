@@ -28,7 +28,7 @@
 
 html {
   @extend %body;
-  background: var(--theme-bg);
+  background: white;
   -webkit-font-smoothing: antialiased;
   opacity: 0;
 
@@ -49,7 +49,6 @@ body {
   margin: 0;
   padding: 0;
   color: var(--color-dark-500);
-  background-color: #f0f0f0;
 
   display: flex;
   flex-flow: column;
