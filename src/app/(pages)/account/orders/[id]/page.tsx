@@ -100,11 +100,11 @@ export default async function Order({ params: { id } }) {
                       </p>
                     )}
                     <h6 className={classes.title}>
-                      <Link href={`/products/${product.slug}`} className={classes.titleLink}>
+                      <Link href={`/products/LKR{product.slug}`} className={classes.titleLink}>
                         {title}
                       </Link>
                     </h6>
-                    <p>{`Quantity: ${quantity}`}</p>
+                    <p>{`Quantity: LKR{quantity}`}</p>
                     <Price product={product} button={false} quantity={quantity} />
                   </div>
                 </div>
