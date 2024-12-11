@@ -21,4 +21,4 @@
 ## ✨ Features
 
 - **🔐 Secure Registration and Login**  
-  ![Secure Registration Animation](https://lottie.host/embed/b5dc5136-5e03-40f9-8662-1b62606a3c1b/P8yV6c1onU.lottie) <!-- Replace with GIF URL -->
+  ![Secure Registration Animation](https://lottiefiles.com/free-animation/animation-1733891981586-OeZaBgtWMc) <!-- Replace with GIF URL -->
