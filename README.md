@@ -21,4 +21,7 @@
 ## ✨ Features
 
 - **🔐 Secure Registration and Login**  
-  ![Secure Registration Animation](https://i.imgur.com/Hyz7JB3.gif) <!-- Replace with GIF URL -->
+  ![Secure Registration Animation](https://i.imgur.com/Hyz7JB3.gif) 
+
+- **📚 Easy Product Listings**  
+  ![Product Listings Animation](https://i.imgur.com/cCcLXYp.gif)
