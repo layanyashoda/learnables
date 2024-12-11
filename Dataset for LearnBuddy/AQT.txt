@@ -11,6 +11,7 @@ semester 1
 3. AQT 131-3  Aquatic Ecosystems and Biodiversity                       3
 4. ESD 121-1  English Language                                          1
 5. ESD 103-2  Information Technology                                    2
+6. BGE 121-2  Ethics and Law Basics                                     2
 
 
 
