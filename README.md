@@ -37,22 +37,27 @@
 ![Frontend Animation](https://i.imgur.com/sr8tU6S.gif)
 
 - **React.js**
-- **Tailwind CSS (Optional)**
-- **GSAP for Animations**
+- **TypeScript**
+- **Next.js**
+- **Sass**
+- **VoiceFlow**
 
 ---
 
 ### 🖧 Backend  
 ![Backend Animation](https://i.imgur.com/ddAtm1Y.gif) 
-- **Node.js + Express**
 - **MongoDB (NoSQL)**
-- **JWT for Authentication**
+- **Next.js**
+- **Replit**
 
 ---
 
 ### 🛠 Additional Tools  
-![Additional Tools Animation](https://i.imgur.com/tck6dit.gif) 
+![Additional Tools Animation](https://i.imgur.com/wpVWwfL.gif) 
 
-- **Firebase Authentication**
-- **Stripe Payment Gateway**
-- **AWS S3 for Storage**
+- **Versal**
+- **Github**
+- **Figma**
+- **Payload CMS**
+- **Replit**
+
