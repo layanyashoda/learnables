@@ -34,3 +34,7 @@
 
 ---
 
+## 🛠 Technology Stack
+
+### 🖥️ Frontend  
+
