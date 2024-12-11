@@ -25,3 +25,6 @@
 
 - **📚 Easy Product Listings**  
   ![Product Listings Animation](https://i.imgur.com/cCcLXYp.gif)
+  
+- **🔍 Advanced Search and Filters**  
+  ![Search Animation](https://imgur.com/iNNGtM5)
