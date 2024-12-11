@@ -43,3 +43,11 @@
 
 ---
 
+### 🖧 Backend  
+![Backend Animation](https://i.imgur.com/ddAtm1Y.gif) <!-- Replace with your GIF link -->
+
+- **Node.js + Express**
+- **MongoDB (NoSQL)**
+- **JWT for Authentication**
+
+---
