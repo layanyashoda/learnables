@@ -20,32 +20,13 @@
 
 ## ✨ Features
 
-🎉 Discover the standout features of Learnables with animations!  
+🎉 Discover the standout features of Learnables!  
 
-<details>
-<summary>🔐 Secure Registration and Login</summary>
-<div align="center">
-  <lottie-player 
-    src="https://assets9.lottiefiles.com/packages/lf20_jcikwtux.json"  
-    background="transparent"  
-    speed="1"  
-    style="width: 300px; height: 300px;"  
-    loop  
-    autoplay>
-  </lottie-player>
-</div>
-</details>
+- 🔐 **Secure Registration and Login**
+- 📚 **Easy Product Listings**
+- 🔍 **Advanced Search and Filters**
+- 💬 **In-App Messaging for Communication**
 
-<details>
-<summary>📚 Easy Product Listings</summary>
-<div align="center">
-  <lottie-player 
-    src="https://assets10.lottiefiles.com/packages/lf20_5lhpeh8r.json"  
-    background="transparent"  
-    speed="1"  
-    style="width: 300px; height: 300px;"  
-    loop  
-    autoplay>
-  </lottie-player>
-</div>
-</details>
+For animations, visit the [Interactive Documentation](https://your-github-username.github.io/learnables).
+
+---
