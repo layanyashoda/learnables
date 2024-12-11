@@ -28,3 +28,9 @@
   
 - **🔍 Advanced Search and Filters**  
   ![Search Animation](https://i.imgur.com/iNNGtM5.gif)
+
+- **💬 In-App Messaging for Communication**  
+  ![Messaging Animation](https://i.imgur.com/kls3rjU.gif)
+
+---
+
