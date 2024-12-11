@@ -9,8 +9,6 @@
 ## 🌈 Table of Contents
 - [✨ Features](#-features)
 - [🛠 Technology Stack](#-technology-stack)
-- [🚀 Getting Started](#-getting-started)
-- [⚙️ Installation](#-installation)
 - [📱 Usage](#-usage)
 - [📁 Project Structure](#-project-structure)
 - [🤝 Team Members](#-team-members)
@@ -37,4 +35,4 @@
 ## 🛠 Technology Stack
 
 ### 🖥️ Frontend  
-
+![Frontend Animation](https://i.imgur.com/sr8tU6S.gif)
