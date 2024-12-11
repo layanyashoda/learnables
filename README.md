@@ -9,7 +9,6 @@
 ## 🌈 Table of Contents
 - [✨ Features](#-features)
 - [🛠 Technology Stack](#-technology-stack)
-- [📱 Usage](#-usage)
 - [📁 Project Structure](#-project-structure)
 - [🤝 Team Members](#-team-members)
 - [📜 License](#-license)
@@ -50,3 +49,10 @@
 - **JWT for Authentication**
 
 ---
+
+### 🛠 Additional Tools  
+![Additional Tools Animation](https://i.imgur.com/tck6dit.gif) 
+
+- **Firebase Authentication**
+- **Stripe Payment Gateway**
+- **AWS S3 for Storage**
