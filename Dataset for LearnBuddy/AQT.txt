@@ -14,6 +14,8 @@ semester 1
 6. BGE 121-2  Ethics and Law Basics                                     2
 7. AQT 101-1  Mathematics for Biological Sciences                       1  CN
 8. AQT 132-1  Hydrometeorology                                          1
+9. ESD 151-1  Sinhala                                                   1
+   ESD 161-1  Tamil                                                     1
 
 
 
