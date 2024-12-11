@@ -36,3 +36,10 @@
 
 ### 🖥️ Frontend  
 ![Frontend Animation](https://i.imgur.com/sr8tU6S.gif)
+
+- **React.js**
+- **Tailwind CSS (Optional)**
+- **GSAP for Animations**
+
+---
+
