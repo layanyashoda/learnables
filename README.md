@@ -61,3 +61,8 @@
 - **Payload CMS**
 - **Replit**
 
+---
+
+## 📁 Project Structure
+![Project Structure](https://i.imgur.com/DbJUTkl.mp4) 
+
