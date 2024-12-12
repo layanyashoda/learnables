@@ -97,6 +97,7 @@ AQT-Aquatic Resources Technology Degree Program
          11.AQT 324-2  Hydrography                                            2
          12.AQT 333-2  Aquatic Ecology                                        2
          13.AQT 334-2  Limnology                                              2
+         14.AQT 342-1  Fisheries Field Techniques                             1
 
 
 
