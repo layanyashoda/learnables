@@ -6,4 +6,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
 
        1. CST 102-2   Introduction to Computer Science              2
             2. CST 101-2   Fundamentals of Electronics                   2
- 
+       3. CST 121-3   Structured Programming                        3
+      4. CST 111-2   Essential Mathematics                         2
