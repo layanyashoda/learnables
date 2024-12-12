@@ -74,4 +74,6 @@ ANS- Animal Production & Food Technology Degree Program
                 1. ESD 311-1   Communication Skill II                      1  C
                  2. ANS 311-2   Livestock Farming Systems                   2  C
               3. ANS 321-3   Farm Animal Diseases                        3  C
+              4. ANS 331-2   Animal Feed Resources and Feed Processing   2  C
+              5. ANS 341-2   Food Microbiology                           2  C 
 
