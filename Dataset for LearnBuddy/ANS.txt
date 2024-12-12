@@ -96,3 +96,4 @@ ANS- Animal Production & Food Technology Degree Program
 6. ANS 346-1  Food packaging Technology                            1   C
 7. ANS 351-2  Selection and Animal Breeding                        2   C
 8. ANS 347-2  Food Process Engineering                             2   CN
+9. ANS 361-1  Intellectual Property Rights and Commercialization   1   CN
