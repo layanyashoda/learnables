@@ -116,6 +116,7 @@ AQT-Aquatic Resources Technology Degree Program
          8. AQT 401-1  Fish Pathology                                        1   O
          9. AQT 411-1  Aquatic Food Safety                                   1
 10.AQT 412-2  Fish Behavior                                         2
+11.AQT 421-2  Marine Paleo-Ecology and Paleoclimatology             2
 
 
 
