@@ -95,6 +95,7 @@ AQT-Aquatic Resources Technology Degree Program
          9. AQT 313-2  Fish Histology                                         2
          10.AQT 323-1  Marine Megafauna                                       1
          11.AQT 324-2  Hydrography                                            2
+         12.AQT 333-2  Aquatic Ecology                                        2
 
 
 
