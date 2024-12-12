@@ -77,6 +77,7 @@ AQT-Aquatic Resources Technology Degree Program
          11.ANS 341-2  Food Microbiology                                       2  O
          12.AQT 341-2  Marine Finfish Culture                                  2
          13.AQT 332-2  Aquatic Pollution and Ecotoxicology                     2
+         14.AQT 346-1  navigation and International Signals                    1 
 
 
 
