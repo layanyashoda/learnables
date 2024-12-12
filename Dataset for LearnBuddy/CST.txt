@@ -22,3 +22,4 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
       2. CST 161-3   Microcomputer Architecture and Logic Design   
       3. CST 124-2   Object Oriented Programming
       4. CST 112-2   Calculus
+      5. ESD 111-1   Communication Skills - I
