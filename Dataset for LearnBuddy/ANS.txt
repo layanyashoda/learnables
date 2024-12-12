@@ -118,3 +118,5 @@ ANS- Animal Production & Food Technology Degree Program
 4. ANS 443-2  Animal By-products Technology                       2
 5. ANS 451-3  Animal Biotechnology                                3
 6. ANS 461-2  Scientific Writing and Research Methodology         2
+7. ANS 471-1  Non parametric Statistics                           1
+8. EMG 474-2  Human Resources Management                          2
