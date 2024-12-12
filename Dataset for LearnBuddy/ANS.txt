@@ -15,4 +15,5 @@ ANS- Animal Production & Food Technology Degree Program
                 9. ANS 104-0   Mathematics for Biological Sciences       1    CN
                 10.ESD 151-0/  Sinhala/Tamil(Level 01)                   1    CN
                    ESD 161-0
+                11.ANS 105-0   Agricultural Meteorology and Climatology  1    CN
 
