@@ -8,12 +8,19 @@ ANS- Animal Production & Food Technology Degree Program
         2. ESD 103-2   Information Technology                    2    
         3. BGE 121-2   Ethics and Law Basics                     2    C
         4. ANS 101-2   Introduction to Animal Production         2    C
-                5. ANS 102-3   Farm Animal Anatomy and Physiology        3    C
-                6. ANS 103-1   General Microbiology                      1    C
-                7. ANS 151-2   Principles of Genetics and Breeding       2    C
-                8. ANS 161-1   Laboratory Techniques                     1    C
-                9. ANS 104-0   Mathematics for Biological Sciences       1    CN
-                10.ESD 151-0/  Sinhala/Tamil(Level 01)                   1    CN
-                   ESD 161-0
-                11.ANS 105-0   Agricultural Meteorology and Climatology  1    CN
+        5. ANS 102-3   Farm Animal Anatomy and Physiology        3    C
+        6. ANS 103-1   General Microbiology                      1    C
+        7. ANS 151-2   Principles of Genetics and Breeding       2    C
+        8. ANS 161-1   Laboratory Techniques                     1    C
+
+        9. ANS 104-0   Mathematics for Biological Sciences       1    CN
+        10.ESD 151-0/  Sinhala/Tamil(Level 01)                   1    CN
+           ESD 161-0
+        11.ANS 105-0   Agricultural Meteorology and Climatology  1    CN
+ 
+
+    Semester 2
+
+                         1. ESD 141-2   Quantitative Reasoning                    2   C
+                2. ESD 122-1   Communicative English                     1   C
 
