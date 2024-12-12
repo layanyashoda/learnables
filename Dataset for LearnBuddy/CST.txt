@@ -49,3 +49,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
 
                 1. CST 225-3   Data Structures and Analysis Of Algorithm
         2. CST 262-2   Operating Systems Concepts and Compiler Designs
+        3. CST 243-3  Rapid Application Development
+        4. CST 292-2   Project — I
