@@ -81,3 +81,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
        2. CST 363-2   Computer Systems Architecture
        3. CST 394-2   Project - II
        4. CST 346-2   Software Quality Assurance 
+       5. CST 382-3   Digital Image Processing
+       6. CST 364-2   Systems Level Programming
