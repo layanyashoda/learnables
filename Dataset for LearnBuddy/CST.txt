@@ -63,3 +63,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
 
             1. CST 328-2   Advanced Programming Techniques
         2. CST 371-2   Human Computer Interaction
+        3. CST 372-3   Intelligent Systems
+        4. CST 327-2   Advanced Database Management Systems
