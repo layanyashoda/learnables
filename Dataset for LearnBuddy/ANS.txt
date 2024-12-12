@@ -120,3 +120,7 @@ ANS- Animal Production & Food Technology Degree Program
 6. ANS 461-2  Scientific Writing and Research Methodology         2
 7. ANS 471-1  Non parametric Statistics                           1
 8. EMG 474-2  Human Resources Management                          2
+
+9. ANS 401-1  Nanotechnology in Animal Science                    1   O
+10.ANS 444-1  Sensory Evolution                                   1
+
