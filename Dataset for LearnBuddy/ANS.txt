@@ -123,4 +123,6 @@ ANS- Animal Production & Food Technology Degree Program
 
 9. ANS 401-1  Nanotechnology in Animal Science                    1   O
 10.ANS 444-1  Sensory Evolution                                   1
+11.ANS 445-1  New Product Development                             1
+12.ANS 462-1  Project Cycle Management                            1
 
