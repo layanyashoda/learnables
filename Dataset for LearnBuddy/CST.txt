@@ -73,3 +73,8 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
         10.CST 393-2   Principles Of Management
         11.ESD 311-1   Communication Skills - II
         12.CST 315-2   Mathematics for Computing
+
+
+    semester 2
+
+       1. CST 347-2   Software Architecture & Design Patterns
