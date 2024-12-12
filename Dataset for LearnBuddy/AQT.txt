@@ -1,21 +1,24 @@
-AQT
-Aquatic Resources Technology Degree Program
+AQT-Aquatic Resources Technology Degree Program
 
-1st year
+   1st year
 
-semester 1
+      semester 1
 
-
-1. AQT 111-3  Evolution, Taxonomy and Biology of Aquatic Organisms I    3  C
-2. AQT 112-2  Principles in Aquaculture                                 2
-3. AQT 131-3  Aquatic Ecosystems and Biodiversity                       3
-4. ESD 121-1  English Language                                          1
-5. ESD 103-2  Information Technology                                    2
-6. BGE 121-2  Ethics and Law Basics                                     2
-7. AQT 101-1  Mathematics for Biological Sciences                       1  CN
-8. AQT 132-1  Hydrometeorology                                          1
-9. ESD 151-1  Sinhala                                                   1
-   ESD 161-1  Tamil                                                     1
+         1. AQT 111-3  Evolution, Taxonomy and Biology of Aquatic Organisms I    3  C
+         2. AQT 112-2  Principles in Aquaculture                                 2
+         3. AQT 131-3  Aquatic Ecosystems and Biodiversity                       3
+         4. ESD 121-1  English Language                                          1
+         5. ESD 103-2  Information Technology                                    2
+         6. BGE 121-2  Ethics and Law Basics                                     2
+         7. AQT 101-1  Mathematics for Biological Sciences                       1  CN
+         8. AQT 132-1  Hydrometeorology                                          1
+         9. ESD 151-1  Sinhala                                                   1
+            ESD 161-1  Tamil   
+   
+   
+      Semester 2 
+      
+                                                          1
 
 
 
