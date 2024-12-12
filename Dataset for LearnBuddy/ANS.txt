@@ -41,14 +41,19 @@ ANS- Animal Production & Food Technology Degree Program
 
     Semester 1
 
-               1. ESD 221-1   Effective English Usage                    1  C
-               2. BGE 211-2   Aesthetic Studies                          2  C
-               3. ANS 211-3   Non-Ruminant Management                    3  C
-               4. ANS 221-2   Farm Animal Hygiene                        2  C
-               5. ANS 231-2   Forage Production and Conservation         2  C
-               6. ANS 241-2   Principles of Food Preservation and  Processing      2  C
-               7. AQT 291-2   Ornamental Fish Breeding and Production    2  C
-               8. ANS 281-2   Farm Machinery and Mechanization           2  C
-               9. ANS 201-2   Introduction to Crop Science               2  CN
+        1. ESD 221-1   Effective English Usage                                   1  C
+        2. BGE 211-2   Aesthetic Studies                                         2  C
+        3. ANS 211-3   Non-Ruminant Management                                   3  C
+        4. ANS 221-2   Farm Animal Hygiene                                       2  C
+        5. ANS 231-2   Forage Production and Conservation                        2  C
+        6. ANS 241-2   Principles of Food Preservation and  Processing           2  C
+        7. AQT 291-2   Ornamental Fish Breeding and Production                   2  C
+        8. ANS 281-2   Farm Machinery and Mechanization                          2  C
 
+        9. ANS 201-2   Introduction to Crop Science                              2  CN
 
+    
+    Semester 2
+
+                     1. ESD 222-1   Explorative English                        1  C
+  
