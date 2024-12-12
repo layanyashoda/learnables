@@ -10,3 +10,6 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
       4. CST 111-2   Essential Mathematics                         2
       5. ESD 121-2   English Language Level - I                    1
       6. CST 122-2   Web Programming                               2
+      7. CST 131-2   Fundamentals Of Computer Networks             2
+      8. ESD 151-1/  Sinhala Language - I /Tamil Language - I      1
+                   ESD 161-1
