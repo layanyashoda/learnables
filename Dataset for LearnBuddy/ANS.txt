@@ -6,5 +6,6 @@ ANS- Animal Production & Food Technology Degree Program
    
         1. ESD 121-1   English(Level 01)                         1   C
         2. ESD 103-2   Information Technology                    2    
-                3. BGE 121-2   Ethics and Law Basics                     2    C
+        3. BGE 121-2   Ethics and Law Basics                     2    C
+        4. ANS 101-2   Introduction to Animal Production         2    C
 
