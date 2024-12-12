@@ -12,4 +12,5 @@ ANS- Animal Production & Food Technology Degree Program
                 6. ANS 103-1   General Microbiology                      1    C
                 7. ANS 151-2   Principles of Genetics and Breeding       2    C
                 8. ANS 161-1   Laboratory Techniques                     1    C
+                9. ANS 104-0   Mathematics for Biological Sciences       1    CN
 
