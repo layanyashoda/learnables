@@ -59,4 +59,5 @@ ANS- Animal Production & Food Technology Degree Program
                  2. BGE 213-1   History                                    1  C
                3. BGE 214-1   Geography                                  1  C
                4. ANS 212-3   Ruminant Management                        3  C
+               5. ANS 213-2   Reproduction and Lactation in Farm Animals 2  C
 
