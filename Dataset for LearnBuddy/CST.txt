@@ -65,3 +65,7 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
         2. CST 371-2   Human Computer Interaction
         3. CST 372-3   Intelligent Systems
         4. CST 327-2   Advanced Database Management Systems
+        5. CST 381-2   Computer Graphics
+        6. CST 333-2   Data and Network Security
+        7. SCT 384-2   Embedded Systems
+        8. CST 344-2   Management Information Systems 
