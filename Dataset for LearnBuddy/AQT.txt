@@ -94,6 +94,7 @@ AQT-Aquatic Resources Technology Degree Program
          8. AQT 312-1  Fish Immunology                                        1
          9. AQT 313-2  Fish Histology                                         2
          10.AQT 323-1  Marine Megafauna                                       1
+         11.AQT 324-2  Hydrography                                            2
 
 
 
