@@ -13,3 +13,4 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
       7. CST 131-2   Fundamentals Of Computer Networks             2
       8. ESD 151-1/  Sinhala Language - I /Tamil Language - I      1
                    ESD 161-1
+      9. BGE 121-2   Ethics and Law basics                         2
