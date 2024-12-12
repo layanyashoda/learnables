@@ -80,6 +80,7 @@ ANS- Animal Production & Food Technology Degree Program
         7. ANS 381-2   Farm Designing and Construction             2  C
         8. EMG 383-1   Marketing Strategies                        1  C
         9. EAG 324-2   Agricultural Technology Dissemination       2  C
+
         10.ANS 312-2   Micro-livestock Production                  2  O
         11.ANS 301-1   Wildlife and Eco Tourism                    1  O
         12.EAG 321-2   Agricultural Entrepreneurship               2  O
@@ -88,18 +89,28 @@ ANS- Animal Production & Food Technology Degree Program
 
     Semester 2
 
-   1. AQT 391-2  Invertebrate Breeding and farming                    2   C
- 2. ANS 313-1  Waste handling and Utilization                       1   C
-3. ANS 343-3  Dairy Product Technology                             3   C
-4. ANS 344-3  Meat and Egg Product Technology                      3   C
-5. ANS 345-2  Aquatic Product Technology                           2   C
-6. ANS 346-1  Food packaging Technology                            1   C
-7. ANS 351-2  Selection and Animal Breeding                        2   C
-8. ANS 347-2  Food Process Engineering                             2   CN
-9. ANS 361-1  Intellectual Property Rights and Commercialization   1   CN
+        1. AQT 391-2  Invertebrate Breeding and farming                    2   C
+        2. ANS 313-1  Waste handling and Utilization                       1   C
+        3. ANS 343-3  Dairy Product Technology                             3   C
+        4. ANS 344-3  Meat and Egg Product Technology                      3   C
+        5. ANS 345-2  Aquatic Product Technology                           2   C
+        6. ANS 346-1  Food packaging Technology                            1   C
+        7. ANS 351-2  Selection and Animal Breeding                        2   C
 
-10.EAG 355-2  Organic Agriculture                                  2   O
-11.ANS 314-1  Farm Animal Welfare                                  1   O
-12.ANS 302-1  Lab Animal Science                                   1   O
-13.ANS 315-2  Farm Management and Budgeting                        2   O
-14.ANS 348-2  Postharvest Technology                               2   O
+        8. ANS 347-2  Food Process Engineering                             2   CN
+        9. ANS 361-1  Intellectual Property Rights and Commercialization   1   CN
+
+        10.EAG 355-2  Organic Agriculture                                  2   O
+        11.ANS 314-1  Farm Animal Welfare                                  1   O
+        12.ANS 302-1  Lab Animal Science                                   1   O
+        13.ANS 315-2  Farm Management and Budgeting                        2   O
+        14.ANS 348-2  Postharvest Technology                               2   O
+
+
+4th year
+
+  
+     semester 1
+
+1. ANS 421-1  Public Health                                       1   C
+2. ANS 441-2  Food Analysis                                       2
