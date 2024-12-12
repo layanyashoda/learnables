@@ -119,6 +119,7 @@ AQT-Aquatic Resources Technology Degree Program
 11.AQT 421-2  Marine Paleo-Ecology and Paleoclimatology             2
 12.AQT 431-1  Natural Disaster Management                           1
 13.AQT 463-1  Industrial Microbiology                               1
+14.AQT 464-1  Bioinformatics                                        1
 
 
 
