@@ -41,3 +41,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
         4. CST 242-3   Software Engineering
         5. ESD 221-2   English Language Level - Ill
         6. BGE 211-2   Aesthetic Studies
+        7. CST 213-2   Discrete Mathematics
+        8. CST 291-2   Entrepreneurship
