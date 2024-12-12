@@ -8,4 +8,5 @@ ANS- Animal Production & Food Technology Degree Program
         2. ESD 103-2   Information Technology                    2    
         3. BGE 121-2   Ethics and Law Basics                     2    C
         4. ANS 101-2   Introduction to Animal Production         2    C
+                5. ANS 102-3   Farm Animal Anatomy and Physiology        3    C
 
