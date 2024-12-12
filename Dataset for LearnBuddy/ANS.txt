@@ -55,13 +55,21 @@ ANS- Animal Production & Food Technology Degree Program
     
     Semester 2
 
-                     1. ESD 222-1   Explorative English                        1  C
-                 2. BGE 213-1   History                                    1  C
-               3. BGE 214-1   Geography                                  1  C
-               4. ANS 212-3   Ruminant Management                        3  C
-               5. ANS 213-2   Reproduction and Lactation in Farm Animals 2  C
-               6. ANS 233-2   Ruminant Nutrition                         2  C
-               7. ANS 242-2   Food Chemistry                             2  C
-               8. EAG 221-2   Agribusiness Management And Entrepreneurship             2  C
-               9. ANS 261-2   Farm Practice                              2  C
+        1. ESD 222-1   Explorative English                                       1  C
+        2. BGE 213-1   History                                                   1  C
+        3. BGE 214-1   Geography                                                 1  C
+        4. ANS 212-3   Ruminant Management                                       3  C
+        5. ANS 213-2   Reproduction and Lactation in Farm Animals                2  C
+        6. ANS 233-2   Ruminant Nutrition                                        2  C
+        7. ANS 242-2   Food Chemistry                                            2  C
+        8. EAG 221-2   Agribusiness Management And Entrepreneurship              2  C
+        9. ANS 261-2   Farm Practice                                             2  C
 
+
+3rd year
+
+   
+     Semester 1
+
+                1. ESD 311-1   Communication Skill II                      1  C
+   
