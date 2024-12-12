@@ -124,6 +124,7 @@ AQT-Aquatic Resources Technology Degree Program
 16.AQT 453-1  Fisheries and Aquaculture Extension                   1
 17.AQT 441-1  Production and Trade of Marine Ornamental Organisms   1
 18.ANS 441-2  Food Analysis                                         2
+19.ANS 444-1  Sensory Evaluation                                    3
 
 
 
