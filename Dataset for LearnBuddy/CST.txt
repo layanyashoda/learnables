@@ -83,3 +83,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
        4. CST 346-2   Software Quality Assurance 
        5. CST 382-3   Digital Image Processing
        6. CST 364-2   Systems Level Programming
+       7. CST 395-2   Research Methodology and Scientific Writing
+       8. CST 396-1   Emerging Technologies in Computer Science and Informatics
