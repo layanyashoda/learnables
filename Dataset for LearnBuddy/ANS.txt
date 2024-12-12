@@ -29,4 +29,5 @@ ANS- Animal Production & Food Technology Degree Program
                 6. ANS 141-2   Principles of Food Science                2   C
                 7. AQT 191-1   Introduction to living aquatic resources  and Management 1   C
                 8. EAG 161-2   Biochemistry                              2   C
+                9. EAG 131-3   Principles of Agricultural Economics      3   C
 
