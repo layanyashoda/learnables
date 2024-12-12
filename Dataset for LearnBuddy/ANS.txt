@@ -69,19 +69,26 @@ ANS- Animal Production & Food Technology Degree Program
 3rd year
 
    
-     Semester 1
+    Semester 1
 
-                1. ESD 311-1   Communication Skill II                      1  C
-                 2. ANS 311-2   Livestock Farming Systems                   2  C
-              3. ANS 321-3   Farm Animal Diseases                        3  C
-              4. ANS 331-2   Animal Feed Resources and Feed Processing   2  C
-              5. ANS 341-2   Food Microbiology                           2  C 
-              6. ANS 371-2   Experimental Designs                        2  C
-              7. ANS 381-2   Farm Designing and Construction             2  C
-              8. EMG 383-1   Marketing Strategies                        1  C
-              9. EAG 324-2   Agricultural Technology Dissemination       2  C
-              10.ANS 312-2   Micro-livestock Production                  2  O
-              11.ANS 301-1   Wildlife and Eco Tourism                    1  O
-              12.EAG 321-2   Agricultural Entrepreneurship               2  O
-              13.ANS 342-2   Agricultural Food Processing                2  O
+        1. ESD 311-1   Communication Skill II                      1  C
+        2. ANS 311-2   Livestock Farming Systems                   2  C
+        3. ANS 321-3   Farm Animal Diseases                        3  C
+        4. ANS 331-2   Animal Feed Resources and Feed Processing   2  C
+        5. ANS 341-2   Food Microbiology                           2  C 
+        6. ANS 371-2   Experimental Designs                        2  C
+        7. ANS 381-2   Farm Designing and Construction             2  C
+        8. EMG 383-1   Marketing Strategies                        1  C
+        9. EAG 324-2   Agricultural Technology Dissemination       2  C
+        10.ANS 312-2   Micro-livestock Production                  2  O
+        11.ANS 301-1   Wildlife and Eco Tourism                    1  O
+        12.EAG 321-2   Agricultural Entrepreneurship               2  O
+        13.ANS 342-2   Agricultural Food Processing                2  O
 
+
+    Semester 2
+
+   1. AQT 391-2  Invertebrate Breeding and farming                    2   C
+ 2. ANS 313-1  Waste handling and Utilization                       1   C
+3. ANS 343-3  Dairy Product Technology                             3   C
+4. ANS 344-3  Meat and Egg Product Technology                      3   C
