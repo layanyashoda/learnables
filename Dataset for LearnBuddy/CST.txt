@@ -4,4 +4,6 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
 
     semester 1
 
-        
+       1. CST 102-2   Introduction to Computer Science              2
+            2. CST 101-2   Fundamentals of Electronics                   2
+ 
