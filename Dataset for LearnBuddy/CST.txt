@@ -100,3 +100,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
         4. CST 453-2   Cloud Computing
         5. CST 476-2   Deep Learning
         6. CST 483-2   Remote Sensing and Image Interpretation
+        7. CST 473-2   Bioinformatics
+        8. CST 448-2   Enterprise Resource Planning(ERp)
