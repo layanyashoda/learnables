@@ -78,4 +78,6 @@ ANS- Animal Production & Food Technology Degree Program
               5. ANS 341-2   Food Microbiology                           2  C 
               6. ANS 371-2   Experimental Designs                        2  C
               7. ANS 381-2   Farm Designing and Construction             2  C
+              8. EMG 383-1   Marketing Strategies                        1  C
+              9. EAG 324-2   Agricultural Technology Dissemination       2  C
 
