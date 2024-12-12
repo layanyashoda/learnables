@@ -32,4 +32,5 @@ ANS- Animal Production & Food Technology Degree Program
                 9. EAG 131-3   Principles of Agricultural Economics      3   C
                 10.ESD 151-1/  Sinhala/Tamil(Level 02)                   1   CN
                    ESD 162-1
+                11.ANS 106-1   Basics in Physics                         1   CN
 
