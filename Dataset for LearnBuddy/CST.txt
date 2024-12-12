@@ -18,12 +18,22 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
 
     Semester 2
 
-              1. CST 123-3   Database Management Systems                   
-      2. CST 161-3   Microcomputer Architecture and Logic Design   
-      3. CST 124-2   Object Oriented Programming
-      4. CST 112-2   Calculus
-      5. ESD 111-1   Communication Skills - I
-      6. ESD 141-2   Quantitative Reasoning
-      7. ESD 122-2   English Language Level - II
-      8. ESD 152-1   Sinhala Language - II
-      9. ESD 162-1   Tamil Language - II
+        1. CST 123-3   Database Management Systems                   
+        2. CST 161-3   Microcomputer Architecture and Logic Design   
+        3. CST 124-2   Object Oriented Programming
+        4. CST 112-2   Calculus
+        5. ESD 111-1   Communication Skills - I
+        6. ESD 141-2   Quantitative Reasoning
+        7. ESD 122-2   English Language Level - II
+        8. ESD 152-1   Sinhala Language - II
+        9. ESD 162-1   Tamil Language - II
+
+
+
+2nd year
+
+    
+    Semester 1
+
+          1. CST 241-3   System Analysis and Design
+          2. CST 214-3   Statistical Methods - I
