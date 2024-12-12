@@ -94,3 +94,5 @@ ANS- Animal Production & Food Technology Degree Program
 4. ANS 344-3  Meat and Egg Product Technology                      3   C
 5. ANS 345-2  Aquatic Product Technology                           2   C
 6. ANS 346-1  Food packaging Technology                            1   C
+7. ANS 351-2  Selection and Animal Breeding                        2   C
+8. ANS 347-2  Food Process Engineering                             2   CN
