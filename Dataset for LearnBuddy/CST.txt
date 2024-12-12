@@ -94,11 +94,24 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
 
      semester 1
 
-  1. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
-            2. CST 497-2   Social, Ethical and Professional Issues in Computing
+        1. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
+        2. CST 497-2   Social, Ethical and Professional Issues in Computing
         3. CST 429-2   Semantic Web Technologies
         4. CST 453-2   Cloud Computing
         5. CST 476-2   Deep Learning
         6. CST 483-2   Remote Sensing and Image Interpretation
         7. CST 473-2   Bioinformatics
         8. CST 448-2   Enterprise Resource Planning(ERp)
+        9. CST 477-2   Robotics
+        10.CST 474-2   Data Warehousing and Data Mining
+        11.CST 475-2   Digital Forensics
+        12.CST 436-2   System Administration and Maintenance
+        13.CST 435-2   Advanced Computer Networks
+        14.IIT 449-2   CIS for Business
+        15.CST 437-2   Internet of Things
+
+
+     Semester 2
+
+        1. CST 498-6   Industrial Training
+        2. CST 499-6   Research project
