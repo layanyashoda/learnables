@@ -23,3 +23,4 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
       3. CST 124-2   Object Oriented Programming
       4. CST 112-2   Calculus
       5. ESD 111-1   Communication Skills - I
+      6. ESD 141-2   Quantitative Reasoning
