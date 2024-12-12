@@ -101,3 +101,5 @@ ANS- Animal Production & Food Technology Degree Program
 10.EAG 355-2  Organic Agriculture                                  2   O
 11.ANS 314-1  Farm Animal Welfare                                  1   O
 12.ANS 302-1  Lab Animal Science                                   1   O
+13.ANS 315-2  Farm Management and Budgeting                        2   O
+14.ANS 348-2  Postharvest Technology                               2   O
