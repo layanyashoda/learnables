@@ -24,3 +24,4 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
       4. CST 112-2   Calculus
       5. ESD 111-1   Communication Skills - I
       6. ESD 141-2   Quantitative Reasoning
+      7. ESD 122-2   English Language Level - II
