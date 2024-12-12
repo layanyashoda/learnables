@@ -98,3 +98,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
             2. CST 497-2   Social, Ethical and Professional Issues in Computing
         3. CST 429-2   Semantic Web Technologies
         4. CST 453-2   Cloud Computing
+        5. CST 476-2   Deep Learning
+        6. CST 483-2   Remote Sensing and Image Interpretation
