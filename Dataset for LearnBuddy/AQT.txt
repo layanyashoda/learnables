@@ -121,6 +121,7 @@ AQT-Aquatic Resources Technology Degree Program
 13.AQT 463-1  Industrial Microbiology                               1
 14.AQT 464-1  Bioinformatics                                        1
 15.AQT 432-2  Integrated Coastal Zone Management                    2
+16.AQT 453-1  Fisheries and Aquaculture Extension                   1
 
 
 
