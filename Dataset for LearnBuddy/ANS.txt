@@ -44,5 +44,6 @@ ANS- Animal Production & Food Technology Degree Program
                1. ESD 221-1   Effective English Usage                    1  C
                2. BGE 211-2   Aesthetic Studies                          2  C
                3. ANS 211-3   Non-Ruminant Management                    3  C
+               4. ANS 221-2   Farm Animal Hygiene                        2  C
 
 
