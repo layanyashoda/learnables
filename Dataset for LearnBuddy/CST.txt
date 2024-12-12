@@ -78,3 +78,6 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
     semester 2
 
        1. CST 347-2   Software Architecture & Design Patterns
+       2. CST 363-2   Computer Systems Architecture
+       3. CST 394-2   Project - II
+       4. CST 346-2   Software Quality Assurance 
