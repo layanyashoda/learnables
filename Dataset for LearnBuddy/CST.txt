@@ -69,3 +69,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
         6. CST 333-2   Data and Network Security
         7. SCT 384-2   Embedded Systems
         8. CST 344-2   Management Information Systems 
+        9. CST 345-2   Mobile Application Development
+        10.CST 393-2   Principles Of Management
