@@ -88,3 +88,11 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
        9. CST 334-2   Mobile Computing
        10.CST 316-2   Statistical Method - II
        11.CST 351-2   Parallel and Distributed Computing
+
+
+4th year
+
+     semester 1
+
+  1. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
+            2. CST 497-2   Social, Ethical and Professional Issues in Computing
