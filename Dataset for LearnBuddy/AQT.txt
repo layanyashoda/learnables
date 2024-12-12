@@ -78,6 +78,7 @@ AQT-Aquatic Resources Technology Degree Program
          12.AQT 341-2  Marine Finfish Culture                                  2
          13.AQT 332-2  Aquatic Pollution and Ecotoxicology                     2
          14.AQT 346-1  navigation and International Signals                    1 
+         15.AQT 353-2  Fisheries cooperatives and marketing                    2
 
 
 
