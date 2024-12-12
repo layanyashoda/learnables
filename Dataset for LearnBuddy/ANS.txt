@@ -112,20 +112,25 @@ ANS- Animal Production & Food Technology Degree Program
   
      semester 1
 
-1. ANS 421-1  Public Health                                       1   C
-2. ANS 441-2  Food Analysis                                       2
-3. ANS 442-2  Food Safety and Quality Management                  2
-4. ANS 443-2  Animal By-products Technology                       2
-5. ANS 451-3  Animal Biotechnology                                3
-6. ANS 461-2  Scientific Writing and Research Methodology         2
-7. ANS 471-1  Non parametric Statistics                           1
-8. EMG 474-2  Human Resources Management                          2
+        1. ANS 421-1  Public Health                                       1   C
+        2. ANS 441-2  Food Analysis                                       2
+        3. ANS 442-2  Food Safety and Quality Management                  2
+        4. ANS 443-2  Animal By-products Technology                       2
+        5. ANS 451-3  Animal Biotechnology                                3
+        6. ANS 461-2  Scientific Writing and Research Methodology         2
+        7. ANS 471-1  Non parametric Statistics                           1
+        8. EMG 474-2  Human Resources Management                          2
 
-9. ANS 401-1  Nanotechnology in Animal Science                    1   O
-10.ANS 444-1  Sensory Evolution                                   1
-11.ANS 445-1  New Product Development                             1
-12.ANS 462-1  Project Cycle Management                            1
-13.ANS 463-1  Business Communication                              1
-14.AQT 491-2  Advanced Techniques in Aquatic Farming Systems      2
-15.EAG 431-2  Import Export Procedures                            2
+        9. ANS 401-1  Nanotechnology in Animal Science                    1   O
+        10.ANS 444-1  Sensory Evolution                                   1
+        11.ANS 445-1  New Product Development                             1
+        12.ANS 462-1  Project Cycle Management                            1
+        13.ANS 463-1  Business Communication                              1
+        14.AQT 491-2  Advanced Techniques in Aquatic Farming Systems      2
+        15.EAG 431-2  Import Export Procedures                            2
 
+
+    Semester 2
+
+        1. ANS 464-6  Research                                           6    C
+        2. ANS 465-2  Industrial Training                                2    CN
