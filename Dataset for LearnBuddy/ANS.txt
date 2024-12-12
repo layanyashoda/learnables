@@ -80,4 +80,5 @@ ANS- Animal Production & Food Technology Degree Program
               7. ANS 381-2   Farm Designing and Construction             2  C
               8. EMG 383-1   Marketing Strategies                        1  C
               9. EAG 324-2   Agricultural Technology Dissemination       2  C
+              10.ANS 312-2   Micro-livestock Production                  2  O
 
