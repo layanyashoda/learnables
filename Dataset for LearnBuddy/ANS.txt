@@ -26,4 +26,5 @@ ANS- Animal Production & Food Technology Degree Program
                 3. ESD 111-1   Communication Skill 1                     1   C
                 4. ANS 106-2   Introduction to Soil Science              2   C
                 5. ANS 131-2   Animal Nutrition                          2   C
+                6. ANS 141-2   Principles of Food Science                2   C
 
