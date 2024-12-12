@@ -82,4 +82,6 @@ ANS- Animal Production & Food Technology Degree Program
               9. EAG 324-2   Agricultural Technology Dissemination       2  C
               10.ANS 312-2   Micro-livestock Production                  2  O
               11.ANS 301-1   Wildlife and Eco Tourism                    1  O
+              12.EAG 321-2   Agricultural Entrepreneurship               2  O
+              13.ANS 342-2   Agricultural Food Processing                2  O
 
