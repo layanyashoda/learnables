@@ -114,3 +114,5 @@ ANS- Animal Production & Food Technology Degree Program
 
 1. ANS 421-1  Public Health                                       1   C
 2. ANS 441-2  Food Analysis                                       2
+3. ANS 442-2  Food Safety and Quality Management                  2
+4. ANS 443-2  Animal By-products Technology                       2
