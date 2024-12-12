@@ -21,7 +21,8 @@ AQT-Aquatic Resources Technology Degree Program
          1. AQT 102-1  Fundamental of Chemistry                                  1  C
          2. AQT 103-2  General Microbiology                                      2
          3. AQT 113-3  Evolution, Taxonomy and Biology of Aquatic Organisms II   3  
-                           
+         4. AQT 151-3  Water Quality Management                                  3
+                  
 
 
 
