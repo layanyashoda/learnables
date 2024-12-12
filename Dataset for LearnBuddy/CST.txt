@@ -35,11 +35,17 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
     
     Semester 1
 
-          1. CST 241-3   System Analysis and Design
-          2. CST 214-3   Statistical Methods - I
+        1. CST 241-3   System Analysis and Design
+        2. CST 214-3   Statistical Methods - I
         3. CST 232-2   Data Communication and Networking
         4. CST 242-3   Software Engineering
         5. ESD 221-2   English Language Level - Ill
         6. BGE 211-2   Aesthetic Studies
         7. CST 213-2   Discrete Mathematics
         8. CST 291-2   Entrepreneurship
+
+
+    Semester 2
+
+                1. CST 225-3   Data Structures and Analysis Of Algorithm
+        2. CST 262-2   Operating Systems Concepts and Compiler Designs
