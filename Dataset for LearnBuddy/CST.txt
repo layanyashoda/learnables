@@ -8,3 +8,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
             2. CST 101-2   Fundamentals of Electronics                   2
        3. CST 121-3   Structured Programming                        3
       4. CST 111-2   Essential Mathematics                         2
+      5. ESD 121-2   English Language Level - I                    1
+      6. CST 122-2   Web Programming                               2
