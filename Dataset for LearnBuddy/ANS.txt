@@ -58,4 +58,5 @@ ANS- Animal Production & Food Technology Degree Program
                      1. ESD 222-1   Explorative English                        1  C
                  2. BGE 213-1   History                                    1  C
                3. BGE 214-1   Geography                                  1  C
+               4. ANS 212-3   Ruminant Management                        3  C
 
