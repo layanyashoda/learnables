@@ -51,3 +51,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
         2. CST 262-2   Operating Systems Concepts and Compiler Designs
         3. CST 243-3  Rapid Application Development
         4. CST 292-2   Project — I
+        5. CST 226-2   Web Application Development
+        7. IIT 223-2   Information Technology Project Management
