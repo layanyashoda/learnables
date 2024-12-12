@@ -85,3 +85,6 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
        6. CST 364-2   Systems Level Programming
        7. CST 395-2   Research Methodology and Scientific Writing
        8. CST 396-1   Emerging Technologies in Computer Science and Informatics
+       9. CST 334-2   Mobile Computing
+       10.CST 316-2   Statistical Method - II
+       11.CST 351-2   Parallel and Distributed Computing
