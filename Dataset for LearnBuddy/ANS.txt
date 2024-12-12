@@ -99,3 +99,5 @@ ANS- Animal Production & Food Technology Degree Program
 9. ANS 361-1  Intellectual Property Rights and Commercialization   1   CN
 
 10.EAG 355-2  Organic Agriculture                                  2   O
+11.ANS 314-1  Farm Animal Welfare                                  1   O
+12.ANS 302-1  Lab Animal Science                                   1   O
