@@ -39,3 +39,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
           2. CST 214-3   Statistical Methods - I
         3. CST 232-2   Data Communication and Networking
         4. CST 242-3   Software Engineering
+        5. ESD 221-2   English Language Level - Ill
+        6. BGE 211-2   Aesthetic Studies
