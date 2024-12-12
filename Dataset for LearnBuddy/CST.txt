@@ -71,3 +71,5 @@ CST -Bachelor of Science (BSc) in Computer Science and Technology
         8. CST 344-2   Management Information Systems 
         9. CST 345-2   Mobile Application Development
         10.CST 393-2   Principles Of Management
+        11.ESD 311-1   Communication Skills - II
+        12.CST 315-2   Mathematics for Computing
