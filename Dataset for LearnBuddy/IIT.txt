@@ -30,16 +30,22 @@ IIT - Industrial Information Technology
 
 
     
-    2nd year
+2nd year
 
     
-     Semester 1
+    Semester 1
 
-1. CST 241-3   System Analysis and Design
-2. CST 232-2    Data Communication and Networking
-3. CST 242-3   Software Engineering
-4. IIT 232-3   Financial Accounting
-5. ESD 221-2   English Language Level - III
-6. BCE 211-2   Aesthetic Studies
-7. IIT 241-2   Entrepreneurship
+        1. CST 241-3   System Analysis and Design
+        2. CST 232-2    Data Communication and Networking
+        3. CST 242-3   Software Engineering
+        4. IIT 232-3   Financial Accounting
+        5. ESD 221-2   English Language Level - III
+        6. BCE 211-2   Aesthetic Studies
+        7. IIT 241-2   Entrepreneurship
+        8. CST 213-2   Discrete Mathematics
 
+    
+     Semester 2
+
+      1. CST 262-2   Operating Systems Concepts and Compiler Designs       
+   2. CST 243-3   Rapid Application Development
