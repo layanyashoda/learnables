@@ -104,3 +104,6 @@ CST 437-2   Internet of Things
 IIT 402-2   Advanced Programming Techniques
 CST 474-2   Data Warehousing and Data Mining
 CST 436-2   System Administration and Maintenance
+CST 475-2   Digital Forensics
+CST 435-2   Advanced Computer Networks
+IIT 462-2   Multimedia Technologies
