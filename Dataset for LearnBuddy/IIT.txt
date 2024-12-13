@@ -82,3 +82,5 @@ IIT - Industrial Information Technology
 6. CST 396-1   Emerging Technologies in Computer Science & Informatics
 7. CST 347-2   Software Architecture and Design Patterns
 8. IIT 344-2   Statistical  Management
+9. IIT 313-2   Statistical Methods - II
+10.IIT 361-2   Digital Image Processing
