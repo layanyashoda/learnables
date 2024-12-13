@@ -100,3 +100,5 @@ IIT 424-2   Organizational Change and Development
 IIT 445-2   E Commerce
 IIT 452-2   Digital Marketing
 CST 448-2   Enterprise Resource Planning(EAP)
+CST 437-2   Internet of Things
+IIT 402-2   Advanced Programming Techniques
