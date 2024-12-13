@@ -96,3 +96,5 @@ CST 429-2   Semantic Web Technologies
 IIT 448-2   Business Process Management
 IIT 414-2   Business Analytics
 IIT 447-2   GIS for Business
+IIT 424-2   Organizational Change and Development
+IIT 445-2   E Commerce
