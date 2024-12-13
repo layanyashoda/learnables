@@ -49,3 +49,5 @@ IIT - Industrial Information Technology
 
       1. CST 262-2   Operating Systems Concepts and Compiler Designs       
    2. CST 243-3   Rapid Application Development
+3. IIT 271-2   Project - I
+4. IIT 251-3   Principles of Marketing
