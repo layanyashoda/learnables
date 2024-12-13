@@ -10,3 +10,7 @@ IIT - Industrial Information Technology
 4. CST 111-2    Essential Mathematics
 5. CST 122-2   Web Programming
 6. CST 131-2   Fundamentals of Computer Networks
+7. ESD 121-2   English Language Level - I
+8. ESD 151-1/  Sinhala Language - l/ Tamil Language - I
+   ESD 161-1
+9. BCE 121-2   Ethics and Law basics
