@@ -63,3 +63,6 @@ IIT - Industrial Information Technology
 2. IIT 342-3   Organizational Behavior
 3. IIT 311-3   Statistical Methods - I
 4. IIT 301-2   Data Structures and Algorithms
+5. CST 371-2   Human Computer Interaction
+6. CST 344-2   Management Information Systems
+7. ESD 311-1   Communication Skills - II
