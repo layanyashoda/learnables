@@ -38,4 +38,6 @@ IIT - Industrial Information Technology
 1. CST 241-3   System Analysis and Design
 2. CST 232-2    Data Communication and Networking
 3. CST 242-3   Software Engineering
+4. IIT 232-3   Financial Accounting
+5. ESD 221-2   English Language Level - III
 
