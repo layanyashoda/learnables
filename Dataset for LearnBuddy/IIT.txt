@@ -22,3 +22,5 @@ IIT - Industrial Information Technology
 2. CST 112-2   Calculus
 3. CST 124-2   Object Oriented Programming
 4. IIT 131-3   Fundamentals of Economics
+5. ESD 141-2   Quantitative Reasoning
+6. ESD 111-1   Communication Skills - I
