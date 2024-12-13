@@ -6,3 +6,5 @@ IIT - Industrial Information Technology
  
 1. CST 102-2   Introduction to Computer Science
 2. CST 121-3   Structured programming
+3. IIT 121-3   Principles of Management
+4. CST 111-2    Essential Mathematics
