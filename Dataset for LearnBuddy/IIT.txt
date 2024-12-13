@@ -74,13 +74,21 @@ IIT - Industrial Information Technology
 
     Semester 2
 
-1. IIT 343-2   Business Law
-2. IIT 323-2   Human Resources Management
-3. IIT 372-2   Project - II
-4. CST 395-2   Research Methodology and Scientific Writing
-5. CST 346-2   Software Quality Assurance
-6. CST 396-1   Emerging Technologies in Computer Science & Informatics
-7. CST 347-2   Software Architecture and Design Patterns
-8. IIT 344-2   Statistical  Management
-9. IIT 313-2   Statistical Methods - II
-10.IIT 361-2   Digital Image Processing
+        1. IIT 343-2   Business Law
+        2. IIT 323-2   Human Resources Management
+        3. IIT 372-2   Project - II
+        4. CST 395-2   Research Methodology and Scientific Writing
+        5. CST 346-2   Software Quality Assurance
+        6. CST 396-1   Emerging Technologies in Computer Science & Informatics
+        7. CST 347-2   Software Architecture and Design Patterns
+        8. IIT 344-2   Statistical  Management
+        9. IIT 313-2   Statistical Methods - II
+        10.IIT 361-2   Digital Image Processing
+
+
+4th Year
+
+    Semester 1
+
+IIT 446-2   Intellectual Property Rights, Legislation and Commercialization
+CST 497-2   Social, Ethical and Professional Issues in Computing
