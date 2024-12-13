@@ -1,0 +1,8 @@
+IIT - Industrial Information Technology
+
+1st year
+
+    Semester 1
+ 
+1. CST 102-2   Introduction to Computer Science
+2. CST 121-3   Structured programming
