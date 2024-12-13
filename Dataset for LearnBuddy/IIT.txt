@@ -4,13 +4,19 @@ IIT - Industrial Information Technology
 
     Semester 1
  
-1. CST 102-2   Introduction to Computer Science
-2. CST 121-3   Structured programming
-3. IIT 121-3   Principles of Management
-4. CST 111-2    Essential Mathematics
-5. CST 122-2   Web Programming
-6. CST 131-2   Fundamentals of Computer Networks
-7. ESD 121-2   English Language Level - I
-8. ESD 151-1/  Sinhala Language - l/ Tamil Language - I
-   ESD 161-1
-9. BCE 121-2   Ethics and Law basics
+        1. CST 102-2   Introduction to Computer Science
+        2. CST 121-3   Structured programming
+        3. IIT 121-3   Principles of Management
+        4. CST 111-2    Essential Mathematics
+        5. CST 122-2   Web Programming
+        6. CST 131-2   Fundamentals of Computer Networks
+        7. ESD 121-2   English Language Level - I
+        8. ESD 151-1/  Sinhala Language - l/ Tamil Language - I
+           ESD 161-1
+        9. BCE 121-2   Ethics and Law basics
+
+
+    Semester 2
+
+1. CST 123-3   Database Management Systems
+2. CST 112-2   Calculus
