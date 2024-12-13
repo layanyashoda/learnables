@@ -102,3 +102,5 @@ IIT 452-2   Digital Marketing
 CST 448-2   Enterprise Resource Planning(EAP)
 CST 437-2   Internet of Things
 IIT 402-2   Advanced Programming Techniques
+CST 474-2   Data Warehousing and Data Mining
+CST 436-2   System Administration and Maintenance
