@@ -80,3 +80,5 @@ IIT - Industrial Information Technology
 4. CST 395-2   Research Methodology and Scientific Writing
 5. CST 346-2   Software Quality Assurance
 6. CST 396-1   Emerging Technologies in Computer Science & Informatics
+7. CST 347-2   Software Architecture and Design Patterns
+8. IIT 344-2   Statistical  Management
