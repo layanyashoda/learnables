@@ -98,3 +98,5 @@ IIT 414-2   Business Analytics
 IIT 447-2   GIS for Business
 IIT 424-2   Organizational Change and Development
 IIT 445-2   E Commerce
+IIT 452-2   Digital Marketing
+CST 448-2   Enterprise Resource Planning(EAP)
