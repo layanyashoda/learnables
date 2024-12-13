@@ -47,9 +47,17 @@ IIT - Industrial Information Technology
     
      Semester 2
 
-      1. CST 262-2   Operating Systems Concepts and Compiler Designs       
-   2. CST 243-3   Rapid Application Development
-3. IIT 271-2   Project - I
-4. IIT 251-3   Principles of Marketing
-5. IIT 233-2   Management Accountancy
-6. IIT 211-2   Operational Research
+        1. CST 262-2   Operating Systems Concepts and Compiler Designs       
+        2. CST 243-3   Rapid Application Development
+        3. IIT 271-2   Project - I
+        4. IIT 251-3   Principles of Marketing
+        5. IIT 233-2   Management Accountancy
+        6. IIT 211-2   Operational Research
+        7. CST 226-2   Web Application Development
+
+
+3rd  Year
+ 
+    Semester 1
+1. IIT 334-2   Business Finance
+2. IIT 342-3   Organizational Behavior
