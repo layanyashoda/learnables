@@ -61,3 +61,5 @@ IIT - Industrial Information Technology
     Semester 1
 1. IIT 334-2   Business Finance
 2. IIT 342-3   Organizational Behavior
+3. IIT 311-3   Statistical Methods - I
+4. IIT 301-2   Data Structures and Algorithms
