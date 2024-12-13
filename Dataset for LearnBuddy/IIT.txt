@@ -90,20 +90,26 @@ IIT - Industrial Information Technology
 
     Semester 1
 
-IIT 446-2   Intellectual Property Rights, Legislation and Commercialization
-CST 497-2   Social, Ethical and Professional Issues in Computing
-CST 429-2   Semantic Web Technologies
-IIT 448-2   Business Process Management
-IIT 414-2   Business Analytics
-IIT 447-2   GIS for Business
-IIT 424-2   Organizational Change and Development
-IIT 445-2   E Commerce
-IIT 452-2   Digital Marketing
-CST 448-2   Enterprise Resource Planning(EAP)
-CST 437-2   Internet of Things
-IIT 402-2   Advanced Programming Techniques
-CST 474-2   Data Warehousing and Data Mining
-CST 436-2   System Administration and Maintenance
-CST 475-2   Digital Forensics
-CST 435-2   Advanced Computer Networks
-IIT 462-2   Multimedia Technologies
+        IIT 446-2   Intellectual Property Rights, Legislation and Commercialization
+        CST 497-2   Social, Ethical and Professional Issues in Computing
+        CST 429-2   Semantic Web Technologies
+        IIT 448-2   Business Process Management
+        IIT 414-2   Business Analytics
+        IIT 447-2   GIS for Business
+        IIT 424-2   Organizational Change and Development
+        IIT 445-2   E Commerce
+        IIT 452-2   Digital Marketing
+        CST 448-2   Enterprise Resource Planning(EAP)
+        CST 437-2   Internet of Things
+        IIT 402-2   Advanced Programming Techniques
+        CST 474-2   Data Warehousing and Data Mining
+        CST 436-2   System Administration and Maintenance
+        CST 475-2   Digital Forensics
+        CST 435-2   Advanced Computer Networks
+        IIT 462-2   Multimedia Technologies
+
+
+    Semester 2
+
+IIT 473-6   Industrial Training
+IIT 474-6   Research Project
