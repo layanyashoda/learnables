@@ -76,3 +76,5 @@ IIT - Industrial Information Technology
 
 1. IIT 343-2   Business Law
 2. IIT 323-2   Human Resources Management
+3. IIT 372-2   Project - II
+4. CST 395-2   Research Methodology and Scientific Writing
