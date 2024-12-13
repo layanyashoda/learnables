@@ -51,3 +51,5 @@ IIT - Industrial Information Technology
    2. CST 243-3   Rapid Application Development
 3. IIT 271-2   Project - I
 4. IIT 251-3   Principles of Marketing
+5. IIT 233-2   Management Accountancy
+6. IIT 211-2   Operational Research
