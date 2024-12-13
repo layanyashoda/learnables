@@ -42,9 +42,16 @@ const Promotion = () => {
       <div className={classes.textBox}>
         <h3 className={classes.title}>Deals of the Month</h3>
         <p>
-          Get ready for a shopping experience like never before with our Deals of the Month! Every
-          purchase comes with exclusive perks and offers, making this month a celebration of savvy
-          choices and amazing deals. Don't miss out! 🎁🛒
+        🎓 Empower Your Learning Journey with Our Exclusive Deals! 🎓
+
+        This month, we're celebrating the vibrant academic diversity of our university!
+        
+        💡 Why shop with us?
+
+        Special Discounts on lab essentials like goggles and more for students in ANS, AQT, CST, ICT, and beyond!
+        Exclusive bundles for degree programs such as PMT, SCT, ENM, and BBST—designed to make your academic pursuits safer and smarter.
+        Perks with every purchase—gear up for success with freebies, discounts, and loyalty rewards!
+        📢 Don't miss this opportunity to save big and level up your academic toolkit. Shop smart and elevate your learning experience! 🎁🛒
         </p>
 
         <ul className={classes.stats}>
@@ -53,6 +60,13 @@ const Promotion = () => {
           <StatBox label="Minutes" value={time.minutes} />
           <StatBox label="Seconds" value={time.seconds} />
         </ul>
+      </div>
+
+      <div className={classes.imageBox}>
+        <img
+          src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d"
+          alt="Promotion"
+        />
       </div>
     </section>
   )
