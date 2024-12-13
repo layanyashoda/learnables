@@ -24,3 +24,6 @@ IIT - Industrial Information Technology
 4. IIT 131-3   Fundamentals of Economics
 5. ESD 141-2   Quantitative Reasoning
 6. ESD 111-1   Communication Skills - I
+7. ESD 122-2   English Language Level - II
+8. ESD 152-1/  Sinhala Language - II/ Tamil Language - II
+   ESD 162-1
