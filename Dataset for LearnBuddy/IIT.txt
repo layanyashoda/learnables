@@ -66,3 +66,5 @@ IIT - Industrial Information Technology
 5. CST 371-2   Human Computer Interaction
 6. CST 344-2   Management Information Systems
 7. ESD 311-1   Communication Skills - II
+8. CST 327-2   Advanced Database Management Systems
+9. IIT 327-2   Information Security and Risk Management
