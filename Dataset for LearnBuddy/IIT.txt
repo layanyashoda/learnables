@@ -94,3 +94,5 @@ IIT 446-2   Intellectual Property Rights, Legislation and Commercialization
 CST 497-2   Social, Ethical and Professional Issues in Computing
 CST 429-2   Semantic Web Technologies
 IIT 448-2   Business Process Management
+IIT 414-2   Business Analytics
+IIT 447-2   GIS for Business
