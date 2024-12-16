@@ -47,12 +47,24 @@ SCT- Science and Technology Degree Programme
 
     Semester 2
 
-1. SCT 202-3   Differential Equations and Applications
-2. SCT 212-1   Operational Research
-3. SCT 223-3   Diversity of Life
-4. SCT 232-2   Organic Chemistry
-5. SCT 242-2   Engineering Thermodynamics
-6. SCT 253-1   Basic Electronics
-7. SCT 241-2   Mechanics of Materials
-8. BGE 213-1   History
-9. BGE 214-1   Geography
+        1. SCT 202-3   Differential Equations and Applications
+        2. SCT 212-1   Operational Research
+        3. SCT 223-3   Diversity of Life
+        4. SCT 232-2   Organic Chemistry
+        5. SCT 242-2   Engineering Thermodynamics
+        6. SCT 253-1   Basic Electronics
+        7. SCT 241-2   Mechanics of Materials
+        8. BGE 213-1   History
+        9. BGE 214-1   Geography
+
+
+
+3rd Year
+
+    Material Science and Technology
+
+        Semester 1
+    
+1. ESD 311-1   Communication Skills II
+2. SCT 341-2   Materials Characterization Techniques-I
+3. SCT 341-2   Chemistry for Materials Science
