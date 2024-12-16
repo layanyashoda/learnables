@@ -111,5 +111,5 @@ IIT - Industrial Information Technology
 
     Semester 2
 
-IIT 473-6   Industrial Training
-IIT 474-6   Research Project
+        IIT 473-6   Industrial Training
+        IIT 474-6   Research Project
