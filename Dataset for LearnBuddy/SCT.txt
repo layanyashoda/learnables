@@ -164,3 +164,5 @@ SCT- Science and Technology Degree Programme
 9. SCT 389-1   Vector Calculus
 10.SCT 303-2   Research Methodology and Scientific Writing
 11.SCT 302-2   Applied Economics and Financial Accounting
+12.IIT 323-2   Human Resource Management
+13.SCT 394-2   Maintenance, Production and Project Management
