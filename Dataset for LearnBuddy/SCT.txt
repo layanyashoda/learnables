@@ -204,4 +204,6 @@ SCT- Science and Technology Degree Programme
 2. SCT 412-2   Bioprocess Equipment Design and Fabrication
 3. SCT 413-2   Flavors and Fragrances
 4. SCT 414-2   Food Process Modeling and Simulation
+5. SCT 413-3   Food Process Technology II
+6. SCT 402-2   Quality Assurance and Control
 
