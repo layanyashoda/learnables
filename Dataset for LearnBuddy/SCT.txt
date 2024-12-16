@@ -71,3 +71,6 @@ SCT- Science and Technology Degree Programme
 4. SCT 342-2   Materials Chemistry
 5. SCT 343-2   Materials Physics
 6. SCT 344-1   Materials Technology Laboratory-I
+7. SCT 346-2   Polymer Science and Technology I
+8. SCT 347-2   Structural Properties of Materials
+9. SCT 348-2   Surface and Colloidal Science
