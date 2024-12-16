@@ -177,3 +177,6 @@ SCT- Science and Technology Degree Programme
 
 1. SCT 441-1   Chemical Engineering Science
 2. SCT 442-2   Composites and Polymer Blends
+3. SCT 443-1   Materials Technology Laboratory III
+4. SCT 444-2   Metallurgy
+5. SCT 445-2   Nano Materials and Nanotechnology
