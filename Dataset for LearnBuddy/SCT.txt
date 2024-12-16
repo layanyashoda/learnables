@@ -103,3 +103,5 @@ SCT- Science and Technology Degree Programme
 
 1. SCT 311-3   Bio-product Separation and Purification Techniques
 2. SCT 312-2   Characterization and Analytical Techniques
+3. SCT 313-2   Engineering Properties of Bio Based Materials
+4. SCT 314-2   Enzymology
