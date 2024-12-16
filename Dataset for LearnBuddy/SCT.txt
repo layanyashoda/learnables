@@ -111,4 +111,5 @@ SCT- Science and Technology Degree Programme
 8. ESD 311-1   Communication Skills - II
 9. SCT 318-2   Organic Synthesis
 10.SCT 331-1   Applications of Nanotechnology
-
+11.SCT 332-1   Cleaner Production Technology
+12.SCT 333-1   Industrial Quality and Safety Standards 
