@@ -105,3 +105,5 @@ SCT- Science and Technology Degree Programme
 2. SCT 312-2   Characterization and Analytical Techniques
 3. SCT 313-2   Engineering Properties of Bio Based Materials
 4. SCT 314-2   Enzymology
+5. SCT 315-2   Food Analysis
+6. SCT 316-2   Metabolism
