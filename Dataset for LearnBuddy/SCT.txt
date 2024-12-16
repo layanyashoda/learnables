@@ -93,3 +93,5 @@ SCT- Science and Technology Degree Programme
 10.SCT 301-2   Materials Science Croup Project
 11.SCT 302-2   Applied Economics and Financial Accounting
 12.SCT 303-2   Research Methodology and Scientific Writing
+13.IIT 323-2   Human Resource Management
+14.SCT 363-2   Wood and Wood based Product Development
