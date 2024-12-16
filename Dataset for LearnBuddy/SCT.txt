@@ -41,3 +41,5 @@ SCT- Science and Technology Degree Programme
 4. SCT 222-2   Biochemistry
 5. SCT 231-2   Physical Chemistry
 6. SCT 252-1   Optics
+7. SCT 251-2   Electricity and Magnetism
+8. SCT 261-1   Data base Management Systems
