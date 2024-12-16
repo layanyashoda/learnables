@@ -4,14 +4,22 @@ SCT- Science and Technology Degree Programme
 
     Semester 1
 
-1. SCT 101-1   Essential Mathematics
-2. SCT 121-1   Introductory Biology
-3. SCT 131-2   General Chemistry
-4. SCT 141-1   Engineering Drawings
-5. SCT 142-2   Engineering Workshop
-6. SCT 151-2   Mechanics, Waves, and Vibrations
-7. CSD 121-2   English Language Level I
-8. CSD 103-2   Information Technology
-9. CSD 151-1   (NCPA) Sinhala Language I
-10.CSD 161-1   (NCPA) Tamil Language I
-11.BGE 121-2   Ethics and Law Basics
+        1. SCT 101-1   Essential Mathematics
+        2. SCT 121-1   Introductory Biology
+        3. SCT 131-2   General Chemistry
+        4. SCT 141-1   Engineering Drawings
+        5. SCT 142-2   Engineering Workshop
+        6. SCT 151-2   Mechanics, Waves, and Vibrations
+        7. CSD 121-2   English Language Level I
+        8. CSD 103-2   Information Technology
+        9. CSD 151-1   (NCPA) Sinhala Language I
+        10.CSD 161-1   (NCPA) Tamil Language I
+        11.BGE 121-2   Ethics and Law Basics
+
+
+     Semester 2
+
+1. SCT 102-2   Calculus
+2. SCT 122-2   Cell Biology
+3. SCT 132-2   Inorganic Chemistry
+4. SCT 152-2   Properties of Matter
