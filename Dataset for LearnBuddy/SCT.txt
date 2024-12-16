@@ -81,17 +81,25 @@ SCT- Science and Technology Degree Programme
 
         Semester 2
 
-1. SCT 351-1   Biomaterials and Applications
-2. SCT 352-2   Ceramic Science and Technology
-3. SCT 353-2   Computational Chemistry
-4. SCT 354-2   Class Science and Technology
-5. SCT 355-1   Class Science and Technology
-6. SCT 356-2   Material Characterization Techniques II
-7. SCT 357-1   Materials Technology Laboratory II
-8. SCT 358-1   Polymer Science and Technology II
-9. SCT 359-1   Seminar in Materials Science
-10.SCT 301-2   Materials Science Croup Project
-11.SCT 302-2   Applied Economics and Financial Accounting
-12.SCT 303-2   Research Methodology and Scientific Writing
-13.IIT 323-2   Human Resource Management
-14.SCT 363-2   Wood and Wood based Product Development
+            1. SCT 351-1   Biomaterials and Applications
+            2. SCT 352-2   Ceramic Science and Technology
+            3. SCT 353-2   Computational Chemistry
+            4. SCT 354-2   Class Science and Technology
+            5. SCT 355-1   Class Science and Technology
+            6. SCT 356-2   Material Characterization Techniques II
+            7. SCT 357-1   Materials Technology Laboratory II
+            8. SCT 358-1   Polymer Science and Technology II
+            9. SCT 359-1   Seminar in Materials Science
+            10.SCT 301-2   Materials Science Croup Project
+            11.SCT 302-2   Applied Economics and Financial Accounting
+            12.SCT 303-2   Research Methodology and Scientific Writing
+            13.IIT 323-2   Human Resource Management
+            14.SCT 363-2   Wood and Wood based Product Development
+
+
+    Food Engineering and Bioprocess Technology
+
+        Semester 1
+
+1. SCT 311-3   Bio-product Separation and Purification Techniques
+2. SCT 312-2   Characterization and Analytical Techniques
