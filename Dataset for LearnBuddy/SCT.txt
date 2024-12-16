@@ -68,3 +68,6 @@ SCT- Science and Technology Degree Programme
 1. ESD 311-1   Communication Skills II
 2. SCT 341-2   Materials Characterization Techniques-I
 3. SCT 341-2   Chemistry for Materials Science
+4. SCT 342-2   Materials Chemistry
+5. SCT 343-2   Materials Physics
+6. SCT 344-1   Materials Technology Laboratory-I
