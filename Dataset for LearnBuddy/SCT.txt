@@ -225,4 +225,9 @@ SCT- Science and Technology Degree Programme
 1. SCT 471-2   Control Theory
 2. SCT 472-2   Intelligent Control Systems
 3. SCT 473-2   Mechatronic Systems Modeling and Simulation
-
+4. SCT 474-2   Numerical Analysis
+5. SCT 475-2   Robotics
+6. SCT 476-2   Systems Automation
+7. SCT 477-1   Time Series and Stochastic Processes
+8. SCT 402-2   Quality Assurance and Control
+9. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
