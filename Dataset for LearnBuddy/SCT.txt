@@ -153,16 +153,27 @@ SCT- Science and Technology Degree Programme
 
         Semester 2
 
-1. SCT 381-2   Applied Engineering Thermodynamics
-2. SCT 382-2   Computer Aided Drafting and Manufacturing
-3. SCT 383-2   Electric Power and Machine
-4. SCT 384-2   Embedded Systems
-5. SCT 385-1   Mechatronics Laboratory II
-6. SCT 386-1   New Product Development
-7. SCT 387-2   Power Electronics
-8. SCT 388-2   Theory of Machines
-9. SCT 389-1   Vector Calculus
-10.SCT 303-2   Research Methodology and Scientific Writing
-11.SCT 302-2   Applied Economics and Financial Accounting
-12.IIT 323-2   Human Resource Management
-13.SCT 394-2   Maintenance, Production and Project Management
+            1. SCT 381-2   Applied Engineering Thermodynamics
+            2. SCT 382-2   Computer Aided Drafting and Manufacturing
+            3. SCT 383-2   Electric Power and Machine
+            4. SCT 384-2   Embedded Systems
+            5. SCT 385-1   Mechatronics Laboratory II
+            6. SCT 386-1   New Product Development
+            7. SCT 387-2   Power Electronics
+            8. SCT 388-2   Theory of Machines
+            9. SCT 389-1   Vector Calculus
+            10.SCT 303-2   Research Methodology and Scientific Writing
+            11.SCT 302-2   Applied Economics and Financial Accounting
+            12.IIT 323-2   Human Resource Management
+            13.SCT 394-2   Maintenance, Production and Project Management
+
+
+
+4th Year
+
+    Material Science and Technology
+
+        Semester 1
+
+1. SCT 441-1   Chemical Engineering Science
+2. SCT 442-2   Composites and Polymer Blends
