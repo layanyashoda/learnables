@@ -12,3 +12,6 @@ SCT- Science and Technology Degree Programme
 6. SCT 151-2   Mechanics, Waves, and Vibrations
 7. CSD 121-2   English Language Level I
 8. CSD 103-2   Information Technology
+9. CSD 151-1   (NCPA) Sinhala Language I
+10.CSD 161-1   (NCPA) Tamil Language I
+11.BGE 121-2   Ethics and Law Basics
