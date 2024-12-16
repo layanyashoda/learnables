@@ -107,3 +107,5 @@ SCT- Science and Technology Degree Programme
 4. SCT 314-2   Enzymology
 5. SCT 315-2   Food Analysis
 6. SCT 316-2   Metabolism
+7. SCT 317-2   Microbiology - II
+8. ESD 311-1   Communication Skills - II
