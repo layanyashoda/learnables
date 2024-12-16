@@ -175,15 +175,21 @@ SCT- Science and Technology Degree Programme
 
         Semester 1
 
-1. SCT 441-1   Chemical Engineering Science
-2. SCT 442-2   Composites and Polymer Blends
-3. SCT 443-1   Materials Technology Laboratory III
-4. SCT 444-2   Metallurgy
-5. SCT 445-2   Nano Materials and Nanotechnology
-6. SCT 446-2   Product Design and Manufacturing Technology
-7. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
-8. SCT 401-2   Business Management and Entrepreneurship
-9. SCT 402-2   Quality Assurance and Control
-10.SCT 461-1   Electrochemical Applications
-11.SCT 462-1   Green Technology
-12.SCT 463-1   Materials for Energy Applications
+            1. SCT 441-1   Chemical Engineering Science
+            2. SCT 442-2   Composites and Polymer Blends
+            3. SCT 443-1   Materials Technology Laboratory III
+            4. SCT 444-2   Metallurgy
+            5. SCT 445-2   Nano Materials and Nanotechnology
+            6. SCT 446-2   Product Design and Manufacturing Technology
+            7. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
+            8. SCT 401-2   Business Management and Entrepreneurship
+            9. SCT 402-2   Quality Assurance and Control
+            10.SCT 461-1   Electrochemical Applications
+            11.SCT 462-1   Green Technology
+            12.SCT 463-1   Materials for Energy Applications
+
+
+        Semester 2
+
+1. SCT 403-6   Industrial Training
+2. SCT 404-6   Research Project
