@@ -55,3 +55,4 @@ SCT- Science and Technology Degree Programme
 6. SCT 253-1   Basic Electronics
 7. SCT 241-2   Mechanics of Materials
 8. BGE 213-1   History
+9. BGE 214-1   Geography
