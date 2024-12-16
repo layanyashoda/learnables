@@ -231,3 +231,7 @@ SCT- Science and Technology Degree Programme
 7. SCT 477-1   Time Series and Stochastic Processes
 8. SCT 402-2   Quality Assurance and Control
 9. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
+10.SCT 401-2   Business Management and Entrepreneurship
+11.SCT 491-2  Sensors and Transducers
+12.SCT 492-2  Virtual Instrumentation
+
