@@ -109,3 +109,6 @@ SCT- Science and Technology Degree Programme
 6. SCT 316-2   Metabolism
 7. SCT 317-2   Microbiology - II
 8. ESD 311-1   Communication Skills - II
+9. SCT 318-2   Organic Synthesis
+10.SCT 331-1   Applications of Nanotechnology
+
