@@ -186,3 +186,4 @@ SCT- Science and Technology Degree Programme
 9. SCT 402-2   Quality Assurance and Control
 10.SCT 461-1   Electrochemical Applications
 11.SCT 462-1   Green Technology
+12.SCT 463-1   Materials for Energy Applications
