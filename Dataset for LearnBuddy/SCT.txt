@@ -162,3 +162,5 @@ SCT- Science and Technology Degree Programme
 7. SCT 387-2   Power Electronics
 8. SCT 388-2   Theory of Machines
 9. SCT 389-1   Vector Calculus
+10.SCT 303-2   Research Methodology and Scientific Writing
+11.SCT 302-2   Applied Economics and Financial Accounting
