@@ -126,3 +126,6 @@ SCT- Science and Technology Degree Programme
 7. SCT 327-1   Mini Project
 8. SCT 328-3   Molecular Biology and Biotechnology
 9. SCT 381-2   Research Methodology and Scientific Writing
+10.SCT 337-2   Functional Foods and Nutraceuticals
+11.SCT 302-2   Applied Economics and Financial Accounting
+12.IIT 323-2   Human Resource Management
