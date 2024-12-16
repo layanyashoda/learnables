@@ -101,15 +101,21 @@ SCT- Science and Technology Degree Programme
 
         Semester 1
 
-1. SCT 311-3   Bio-product Separation and Purification Techniques
-2. SCT 312-2   Characterization and Analytical Techniques
-3. SCT 313-2   Engineering Properties of Bio Based Materials
-4. SCT 314-2   Enzymology
-5. SCT 315-2   Food Analysis
-6. SCT 316-2   Metabolism
-7. SCT 317-2   Microbiology - II
-8. ESD 311-1   Communication Skills - II
-9. SCT 318-2   Organic Synthesis
-10.SCT 331-1   Applications of Nanotechnology
-11.SCT 332-1   Cleaner Production Technology
-12.SCT 333-1   Industrial Quality and Safety Standards 
+            1. SCT 311-3   Bio-product Separation and Purification Techniques
+            2. SCT 312-2   Characterization and Analytical Techniques
+            3. SCT 313-2   Engineering Properties of Bio Based Materials
+            4. SCT 314-2   Enzymology
+            5. SCT 315-2   Food Analysis
+            6. SCT 316-2   Metabolism
+            7. SCT 317-2   Microbiology - II
+            8. ESD 311-1   Communication Skills - II
+            9. SCT 318-2   Organic Synthesis
+            10.SCT 331-1   Applications of Nanotechnology
+            11.SCT 332-1   Cleaner Production Technology
+            12.SCT 333-1   Industrial Quality and Safety Standards 
+
+
+        Semester 2
+
+1. SCT 321-2   Data Handling and Statistics
+2. SCT 322-3   Food Process Technology I
