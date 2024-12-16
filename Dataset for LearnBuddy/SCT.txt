@@ -142,3 +142,6 @@ SCT- Science and Technology Degree Programme
 4. SCT 373-2   Digital Image Processing
 5. SCT 373-2   Electrical Systems
 6. SCT 375-1   Engineering Design
+7. SCT 366-1   (NGPA) Introduction to Mechatronics
+8. SCT 377-2   Mathematical Methods and Complex Analysis
+9. SCT 378-2   Mechatronics laboratory-I
