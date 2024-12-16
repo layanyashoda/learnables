@@ -139,3 +139,6 @@ SCT- Science and Technology Degree Programme
 1. ESD 311-1   Communication Skills
 2. SCT 371-2   Advanced Computer Programming
 3. SCT 371-3   Digital and Analog Electronics
+4. SCT 373-2   Digital Image Processing
+5. SCT 373-2   Electrical Systems
+6. SCT 375-1   Engineering Design
