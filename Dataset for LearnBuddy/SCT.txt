@@ -206,4 +206,6 @@ SCT- Science and Technology Degree Programme
 4. SCT 414-2   Food Process Modeling and Simulation
 5. SCT 413-3   Food Process Technology II
 6. SCT 402-2   Quality Assurance and Control
+7. IIT 446-2   Intellectual Property Rights, Legislation and Commercialization
+8. SCT 433-2   Biodegradation and Bioremediation
 
