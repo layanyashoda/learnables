@@ -23,3 +23,5 @@ SCT- Science and Technology Degree Programme
 2. SCT 122-2   Cell Biology
 3. SCT 132-2   Inorganic Chemistry
 4. SCT 152-2   Properties of Matter
+5. SCT 161-1   Computer Programming
+6. ESD 111-1   Communication Skills
