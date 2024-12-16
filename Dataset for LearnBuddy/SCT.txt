@@ -49,3 +49,5 @@ SCT- Science and Technology Degree Programme
 
 1. SCT 202-3   Differential Equations and Applications
 2. SCT 212-1   Operational Research
+3. SCT 223-3   Diversity of Life
+4. SCT 232-2   Organic Chemistry
