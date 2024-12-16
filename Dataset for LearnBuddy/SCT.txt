@@ -123,3 +123,6 @@ SCT- Science and Technology Degree Programme
 4. SCT 324-2   Fermentation Technology
 5. SCT 325-2   In Vitro Culture Techniques
 6. SCT 326-2   Metabolomics
+7. SCT 327-1   Mini Project
+8. SCT 328-3   Molecular Biology and Biotechnology
+9. SCT 381-2   Research Methodology and Scientific Writing
