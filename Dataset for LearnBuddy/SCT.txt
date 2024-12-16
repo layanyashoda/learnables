@@ -156,4 +156,6 @@ SCT- Science and Technology Degree Programme
 1. SCT 381-2   Applied Engineering Thermodynamics
 2. SCT 382-2   Computer Aided Drafting and Manufacturing
 3. SCT 383-2   Electric Power and Machine
-
+4. SCT 384-2   Embedded Systems
+5. SCT 385-1   Mechatronics Laboratory II
+6. SCT 386-1   New Product Development
