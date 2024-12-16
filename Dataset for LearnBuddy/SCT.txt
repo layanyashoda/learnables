@@ -6,3 +6,9 @@ SCT- Science and Technology Degree Programme
 
 1. SCT 101-1   Essential Mathematics
 2. SCT 121-1   Introductory Biology
+3. SCT 131-2   General Chemistry
+4. SCT 141-1   Engineering Drawings
+5. SCT 142-2   Engineering Workshop
+6. SCT 151-2   Mechanics, Waves, and Vibrations
+7. CSD 121-2   English Language Level I
+8. CSD 103-2   Information Technology
