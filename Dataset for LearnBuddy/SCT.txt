@@ -136,17 +136,24 @@ SCT- Science and Technology Degree Programme
  
         Semester 1
 
-1. ESD 311-1   Communication Skills
-2. SCT 371-2   Advanced Computer Programming
-3. SCT 371-3   Digital and Analog Electronics
-4. SCT 373-2   Digital Image Processing
-5. SCT 373-2   Electrical Systems
-6. SCT 375-1   Engineering Design
-7. SCT 366-1   (NGPA) Introduction to Mechatronics
-8. SCT 377-2   Mathematical Methods and Complex Analysis
-9. SCT 378-2   Mechatronics laboratory-I
-10.SCT 379-1   Mechatronics Project
-11.SCT 391-2   Data Transmission and Computer Networks
-12.SCT 392-2   Energy Technology
-13.SCT 393-2   Engineering Metallurgy
+            1. ESD 311-1   Communication Skills
+            2. SCT 371-2   Advanced Computer Programming
+            3. SCT 371-3   Digital and Analog Electronics
+            4. SCT 373-2   Digital Image Processing
+            5. SCT 373-2   Electrical Systems
+            6. SCT 375-1   Engineering Design
+            7. SCT 366-1   (NGPA) Introduction to Mechatronics
+            8. SCT 377-2   Mathematical Methods and Complex Analysis
+            9. SCT 378-2   Mechatronics laboratory-I
+            10.SCT 379-1   Mechatronics Project
+            11.SCT 391-2   Data Transmission and Computer Networks
+            12.SCT 392-2   Energy Technology
+            13.SCT 393-2   Engineering Metallurgy
+
+
+        Semester 2
+
+1. SCT 381-2   Applied Engineering Thermodynamics
+2. SCT 382-2   Computer Aided Drafting and Manufacturing
+3. SCT 383-2   Electric Power and Machine
 
