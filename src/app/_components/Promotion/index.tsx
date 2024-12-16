@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from 'react'
 
 import classes from './index.module.scss'
+import Image from 'next/image'
 
 const Promotion = () => {
   const [time, setTime] = useState({
@@ -43,14 +44,10 @@ const Promotion = () => {
         <h3 className={classes.title}>Deals of the Month</h3>
         <p>
         🎓 Empower Your Learning Journey with Our Exclusive Deals! 🎓
-
-        This month, we're celebrating the vibrant academic diversity of our university!
         
-        💡 Why shop with us?
-
-        Special Discounts on lab essentials like goggles and more for students in ANS, AQT, CST, ICT, and beyond!
-        Exclusive bundles for degree programs such as PMT, SCT, ENM, and BBST—designed to make your academic pursuits safer and smarter.
-        Perks with every purchase—gear up for success with freebies, discounts, and loyalty rewards!
+        Stationaries and Passpaers are 50% off!
+        
+        Grab your favorite stationaries and passpapers at half the price! 
         📢 Don't miss this opportunity to save big and level up your academic toolkit. Shop smart and elevate your learning experience! 🎁🛒
         </p>
 
@@ -63,9 +60,12 @@ const Promotion = () => {
       </div>
 
       <div className={classes.imageBox}>
-        <img
-          src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d"
+        <Image
+          src="/static-image.png"
           alt="Promotion"
+          width={600} 
+          height={240}
+          className='promotion-image'
         />
       </div>
     </section>
