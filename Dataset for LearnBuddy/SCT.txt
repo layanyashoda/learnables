@@ -191,5 +191,16 @@ SCT- Science and Technology Degree Programme
 
         Semester 2
 
-1. SCT 403-6   Industrial Training
-2. SCT 404-6   Research Project
+            1. SCT 403-6   Industrial Training
+            2. SCT 404-6   Research Project
+
+
+
+    Food Engineering and Bioprocess Technology
+
+        Semester 1
+
+1. SCT 411-2   Biomass Conversion and Biofuels
+2. SCT 412-2   Bioprocess Equipment Design and Fabrication
+
+
