@@ -90,3 +90,6 @@ SCT- Science and Technology Degree Programme
 7. SCT 357-1   Materials Technology Laboratory II
 8. SCT 358-1   Polymer Science and Technology II
 9. SCT 359-1   Seminar in Materials Science
+10.SCT 301-2   Materials Science Croup Project
+11.SCT 302-2   Applied Economics and Financial Accounting
+12.SCT 303-2   Research Methodology and Scientific Writing
