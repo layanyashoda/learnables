@@ -222,16 +222,21 @@ SCT- Science and Technology Degree Programme
 
         Semester 1
 
-1. SCT 471-2   Control Theory
-2. SCT 472-2   Intelligent Control Systems
-3. SCT 473-2   Mechatronic Systems Modeling and Simulation
-4. SCT 474-2   Numerical Analysis
-5. SCT 475-2   Robotics
-6. SCT 476-2   Systems Automation
-7. SCT 477-1   Time Series and Stochastic Processes
-8. SCT 402-2   Quality Assurance and Control
-9. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
-10.SCT 401-2   Business Management and Entrepreneurship
-11.SCT 491-2  Sensors and Transducers
-12.SCT 492-2  Virtual Instrumentation
+            1. SCT 471-2   Control Theory
+            2. SCT 472-2   Intelligent Control Systems
+            3. SCT 473-2   Mechatronic Systems Modeling and Simulation
+            4. SCT 474-2   Numerical Analysis
+            5. SCT 475-2   Robotics
+            6. SCT 476-2   Systems Automation
+            7. SCT 477-1   Time Series and Stochastic Processes
+            8. SCT 402-2   Quality Assurance and Control
+            9. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
+            10.SCT 401-2   Business Management and Entrepreneurship
+            11.SCT 491-2  Sensors and Transducers
+            12.SCT 492-2  Virtual Instrumentation
 
+
+        Semester 2
+
+            1. SCT 404-6   Research Project
+            2. SCT 403-6   Industrial Training
