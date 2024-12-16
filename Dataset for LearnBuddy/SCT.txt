@@ -147,3 +147,6 @@ SCT- Science and Technology Degree Programme
 9. SCT 378-2   Mechatronics laboratory-I
 10.SCT 379-1   Mechatronics Project
 11.SCT 391-2   Data Transmission and Computer Networks
+12.SCT 392-2   Energy Technology
+13.SCT 393-2   Engineering Metallurgy
+
