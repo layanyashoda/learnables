@@ -180,3 +180,9 @@ SCT- Science and Technology Degree Programme
 3. SCT 443-1   Materials Technology Laboratory III
 4. SCT 444-2   Metallurgy
 5. SCT 445-2   Nano Materials and Nanotechnology
+6. SCT 446-2   Product Design and Manufacturing Technology
+7. IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
+8. SCT 401-2   Business Management and Entrepreneurship
+9. SCT 402-2   Quality Assurance and Control
+10.SCT 461-1   Electrochemical Applications
+11.SCT 462-1   Green Technology
