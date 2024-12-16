@@ -35,11 +35,17 @@ SCT- Science and Technology Degree Programme
 
     Semester 1
 
-1. SCT 201-1   Abstract Algebra
-2. SCT 211-2   Statistical Methods
-3. SCT 221-1   Microbiology I
-4. SCT 222-2   Biochemistry
-5. SCT 231-2   Physical Chemistry
-6. SCT 252-1   Optics
-7. SCT 251-2   Electricity and Magnetism
-8. SCT 261-1   Data base Management Systems
+        1. SCT 201-1   Abstract Algebra
+        2. SCT 211-2   Statistical Methods
+        3. SCT 221-1   Microbiology I
+        4. SCT 222-2   Biochemistry
+        5. SCT 231-2   Physical Chemistry
+        6. SCT 252-1   Optics
+        7. SCT 251-2   Electricity and Magnetism
+        8. SCT 261-1   Data base Management Systems
+
+
+    Semester 2
+
+1. SCT 202-3   Differential Equations and Applications
+2. SCT 212-1   Operational Research
