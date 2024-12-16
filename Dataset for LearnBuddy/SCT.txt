@@ -119,3 +119,5 @@ SCT- Science and Technology Degree Programme
 
 1. SCT 321-2   Data Handling and Statistics
 2. SCT 322-3   Food Process Technology I
+3. SCT 323-1   Food Storage and Packaging Technology
+4. SCT 324-2   Fermentation Technology
