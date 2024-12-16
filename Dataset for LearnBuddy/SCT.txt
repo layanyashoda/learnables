@@ -19,13 +19,21 @@ SCT- Science and Technology Degree Programme
 
      Semester 2
 
-1. SCT 102-2   Calculus
-2. SCT 122-2   Cell Biology
-3. SCT 132-2   Inorganic Chemistry
-4. SCT 152-2   Properties of Matter
-5. SCT 161-1   Computer Programming
-6. ESD 111-1   Communication Skills
-7. ESD 141-2   Quantitative Reasoning
-8. ESD 122-2   English Language Level - II
-9. ESD 152-1   (NGPA) Sinhala Language - II
-10.ESD 162-1   (NOPA) Tamil Language - II
+        1. SCT 102-2   Calculus
+        2. SCT 122-2   Cell Biology
+        3. SCT 132-2   Inorganic Chemistry
+        4. SCT 152-2   Properties of Matter
+        5. SCT 161-1   Computer Programming
+        6. ESD 111-1   Communication Skills
+        7. ESD 141-2   Quantitative Reasoning
+        8. ESD 122-2   English Language Level - II
+        9. ESD 152-1   (NGPA) Sinhala Language - II
+        10.ESD 162-1   (NOPA) Tamil Language - II
+
+
+2nd Year
+
+    Semester 1
+
+1. SCT 201-1   Abstract Algebra
+2. SCT 211-2   Statistical Methods
