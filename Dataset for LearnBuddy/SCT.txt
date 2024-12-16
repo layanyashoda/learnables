@@ -74,3 +74,7 @@ SCT- Science and Technology Degree Programme
 7. SCT 346-2   Polymer Science and Technology I
 8. SCT 347-2   Structural Properties of Materials
 9. SCT 348-2   Surface and Colloidal Science
+10.SCT 377-2   Mathematical Methods and Complex Analysis
+11.SCT 361-1   Environmental Science
+12.SCT 362-1   Soft Materials and Their Applications
+
