@@ -145,3 +145,5 @@ SCT- Science and Technology Degree Programme
 7. SCT 366-1   (NGPA) Introduction to Mechatronics
 8. SCT 377-2   Mathematical Methods and Complex Analysis
 9. SCT 378-2   Mechatronics laboratory-I
+10.SCT 379-1   Mechatronics Project
+11.SCT 391-2   Data Transmission and Computer Networks
