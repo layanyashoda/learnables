@@ -159,3 +159,6 @@ SCT- Science and Technology Degree Programme
 4. SCT 384-2   Embedded Systems
 5. SCT 385-1   Mechatronics Laboratory II
 6. SCT 386-1   New Product Development
+7. SCT 387-2   Power Electronics
+8. SCT 388-2   Theory of Machines
+9. SCT 389-1   Vector Calculus
