@@ -84,3 +84,9 @@ ELECTIVE MODULE
 8. MRT 377-2   Oceanography
 9. MRT 378-2   Advanced Hydrogeology
 10.MRT 382-3   Water Treatment Methods
+
+OPTIONAL COURSE UNITS
+
+11.MRT 316-3   Engineering Geology
+12.MRT 352-2   Surveying and Levelling
+
