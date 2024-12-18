@@ -185,3 +185,6 @@ OPTIONAL COURSE UNITS
 11.MRT 352-2   Surveying and Levelling
 12.MRT 353-1   Engineering Workshop Technology
 13.MRT 355-2   Soil Physics
+14.MRT 366-1   Computer Programming
+15.MRT 374-3   Fluid Mechanics and Hydraulics
+16.MRT 377-2   Oceanography
