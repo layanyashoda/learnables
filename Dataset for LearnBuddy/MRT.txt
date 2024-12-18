@@ -222,3 +222,5 @@ CORE MODULE
 
 MRT 411-2   Mineral Economics
 MRT 412-2   Mineral Nanoscience and Technology
+MRT 451-2   Environment and Industry Regulations
+MRT 463-2   Analytical Techniques and Instrumentation - II
