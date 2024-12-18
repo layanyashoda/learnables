@@ -205,3 +205,9 @@ ELECTIVE MODULE
 6. MRT 325-2   Mine Planning Strategies
 7. MRT 327-2   Petroleum Exploration and Extraction
 8. MRT 351-3   Applied Geophysics
+
+OPTIONAL COURSE UNITS
+
+9. MRT 363-2   Quantity Surveying
+10.MRT 364-1   Computer Aided Drawing and Designing
+11.MRT 381-2   Water Safety Plan
