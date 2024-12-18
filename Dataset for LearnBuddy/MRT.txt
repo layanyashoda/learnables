@@ -165,3 +165,14 @@ Mineral Processing Technology Specialization
 ESD & BCE MODULEMODULE
 1. ESD 311-1   Communication Skills - II
 
+CORE MODULE
+
+2. MRT 311-2   Physics and Chemistry of Minerals
+3. MRT 312-2   Genesis Of Mineral Deposits
+4. MRT 362-2   Analytical Techniques and Instrumentation - I
+
+ELECTIVE MODULE
+
+5. MRT 313-2   Gemmology
+6. MRT 314-1   Gemmology Laboratory
+7. MRT 315-3   Technical Mineralogy— I
