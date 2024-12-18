@@ -123,26 +123,34 @@ MRT-Mineral Resources and Technology Degree Programme
 
         Semester 1
 
-CORE MODULE
+            CORE MODULE
 
-1. MRT 451-2   Environment and Industry Regulations
-2. MRT 463-2   Analytical Techniques and Instrumentation - II
-3. MRT 471-3   Advanced Water Chemistry
-4. MRT 472-1   Water Chemistry Laboratory - II
+            1. MRT 451-2   Environment and Industry Regulations
+            2. MRT 463-2   Analytical Techniques and Instrumentation - II
+            3. MRT 471-3   Advanced Water Chemistry
+            4. MRT 472-1   Water Chemistry Laboratory - II
 
-ELECTIVE MODULE
+            ELECTIVE MODULE
 
-5. MRT 473-2   Wastewater Treatment and Reuse - II
-6. MRT 474-1   Nanotechnology for Water Treatment
-7. MRT 475-2   Bottled Water Technology
-8. MRT 476-3   Solute Transport and Reactive Fluid Flow Modelling
-9. MRT 478-2   Water Wells and Pumps
+            5. MRT 473-2   Wastewater Treatment and Reuse - II
+            6. MRT 474-1   Nanotechnology for Water Treatment
+            7. MRT 475-2   Bottled Water Technology
+            8. MRT 476-3   Solute Transport and Reactive Fluid Flow Modelling
+            9. MRT 478-2   Water Wells and Pumps
 
-OPTIONAL COURSE UNITS
+            OPTIONAL COURSE UNITS
 
-10.MRT 453-2   Pollution Control and Remediation
-11.MRT 454-2   Quantity Surveying
-13.IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
-14.SCT 401-2   Business Management and Entrepreneurship
-15.SCT 402-2   Quality Assurance and Control
+            10.MRT 453-2   Pollution Control and Remediation
+            11.MRT 454-2   Quantity Surveying
+            13.IIT 446-2   Intellectual Property Rights, Legislations and Commercialization
+            14.SCT 401-2   Business Management and Entrepreneurship
+            15.SCT 402-2   Quality Assurance and Control
+
+
+        Semester 2
+
+            CORE MODULE
+
+            1. MRT 461-6   Directed Research Project
+            2. MRT 462-6   Industrial Training (Non-GPA)
 
