@@ -211,3 +211,6 @@ OPTIONAL COURSE UNITS
 9. MRT 363-2   Quantity Surveying
 10.MRT 364-1   Computer Aided Drawing and Designing
 11.MRT 381-2   Water Safety Plan
+12.MRT 392-2   Project Management
+13.IIT 323-2   Human Resources Management and Industrial Relations
+14.SCT 302-2   Applied Economics and Financial Accounting
