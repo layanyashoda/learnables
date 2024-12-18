@@ -28,3 +28,5 @@ MRT-Mineral Resources and Technology Degree Programme
 6. SCT 102-2   Calculus
 7. SCT 132-2   Inorganic Chemistry
 8. SCT 152-2   Properties of Matter
+9. MRT 161-3   Mineralogy and Petrology • I
+10.MRT 162-1   Water Resources II
