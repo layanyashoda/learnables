@@ -89,4 +89,8 @@ OPTIONAL COURSE UNITS
 
 11.MRT 316-3   Engineering Geology
 12.MRT 352-2   Surveying and Levelling
+13.MRT 353-1   Engineering Workshop Technology
+14.MRT 355-2   Soil Physics
+15.MRT 366-1   Computer Programming
+
 
