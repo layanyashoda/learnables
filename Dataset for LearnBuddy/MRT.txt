@@ -13,3 +13,6 @@ MRT-Mineral Resources and Technology Degree Programme
 7. SCT 121-1   Introductory Biology
 8. SCT 131-2   General Chemistry
 9. SCT 141-1   Engineering Drawings
+10.SCT 151-2   Mechanics, Waves, and Vibrations
+11.MRT 151-3   Earth Materials and Processes
+12.MRT 152-1   Water Resources I
