@@ -130,4 +130,8 @@ CORE MODULE
 3. MRT 471-3   Advanced Water Chemistry
 4. MRT 472-1   Water Chemistry Laboratory - II
 
+ELECTIVE MODULE
+
+5. MRT 473-2   Wastewater Treatment and Reuse - II
+6. MRT 474-1   Nanotechnology for Water Treatment
          
