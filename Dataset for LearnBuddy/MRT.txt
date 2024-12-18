@@ -197,3 +197,8 @@ CORE MODULE
 1. MRT 321-2   Mineral Exploration Methods
 2. MRT 365-3   Remote Sensing and Geospatial Technology
 3. MRT 361-2   Research Methodology and Scientific Writing
+
+ELECTIVE MODULE
+
+4. MRT 322-2   Gemstone Fashioning
+5. MRT 324-3   Technical Mineralogy— II
