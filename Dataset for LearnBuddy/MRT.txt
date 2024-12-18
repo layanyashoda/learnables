@@ -51,3 +51,5 @@ MRT-Mineral Resources and Technology Degree Programme
 
 1. BGE 213-1   History
 2. BGE 214-1   Geography
+3. SCT 202-3   Differential Equations and Applications
+4. SCT 232-2   Organic Chemistry
