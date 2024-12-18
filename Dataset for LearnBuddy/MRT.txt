@@ -20,13 +20,22 @@ MRT-Mineral Resources and Technology Degree Programme
 
     Semester 2
 
-1. ESD 122-2   English Language Level II
-2. ESD 152-1   Sinhala Language II(non-GPA)
-3. ESD 162-1   Tamil Language II(non-GPA)
-4. ESD 111-1   Communication Skills I
-5. ESD 141-2   Quantitative Reasoning
-6. SCT 102-2   Calculus
-7. SCT 132-2   Inorganic Chemistry
-8. SCT 152-2   Properties of Matter
-9. MRT 161-3   Mineralogy and Petrology • I
-10.MRT 162-1   Water Resources II
+        1. ESD 122-2   English Language Level II
+        2. ESD 152-1   Sinhala Language II(non-GPA)
+        3. ESD 162-1   Tamil Language II(non-GPA)
+        4. ESD 111-1   Communication Skills I
+        5. ESD 141-2   Quantitative Reasoning
+        6. SCT 102-2   Calculus
+        7. SCT 132-2   Inorganic Chemistry
+        8. SCT 152-2   Properties of Matter
+        9. MRT 161-3   Mineralogy and Petrology • I
+        10.MRT 162-1   Water Resources II
+
+
+2nd Year
+
+    Semester 1
+
+1. CSD 221-2   English Language Level. Ill
+2. BGE 211-2   Aesthetic Studies
+3. SCT 201-1   Abstract Algebra
