@@ -42,3 +42,6 @@ MRT-Mineral Resources and Technology Degree Programme
 4. SCT 211-2   Statistical Methods
 5. SCT 231-2   Physical Chemistry
 6. SCT 251-2   Electricity and Magnetism
+7. SCT 252-1   Optics
+8. MRT 251-3   Mineralogy and Petrology - II
+9. MRT 253-2   Principles of Hydrogeology
