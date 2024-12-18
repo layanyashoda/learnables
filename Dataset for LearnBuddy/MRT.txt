@@ -10,3 +10,6 @@ MRT-Mineral Resources and Technology Degree Programme
 4. ESD 103-2   Information Technology
 5. BGE 121-2   Ethics and Law Basics
 6. SCT 101-1   Essential Mathematics
+7. SCT 121-1   Introductory Biology
+8. SCT 131-2   General Chemistry
+9. SCT 141-1   Engineering Drawings
