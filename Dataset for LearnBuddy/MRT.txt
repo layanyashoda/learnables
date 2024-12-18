@@ -55,3 +55,6 @@ MRT-Mineral Resources and Technology Degree Programme
 4. SCT 232-2   Organic Chemistry
 5. SCT 242-2   Engineering Thermodynamics
 6. SCT 253-1   Electronics
+7. SCT 212-1   Operational Research
+8. MRT 252-2   Structural Geology
+9. MRT 254-2   Applied Geochemistry
