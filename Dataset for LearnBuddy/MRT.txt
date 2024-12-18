@@ -162,29 +162,38 @@ Mineral Processing Technology Specialization
 
         Semester 1
 
-ESD & BCE MODULEMODULE
-1. ESD 311-1   Communication Skills - II
+            ESD & BCE MODULEMODULE
+            1. ESD 311-1   Communication Skills - II
+
+            CORE MODULE
+
+            2. MRT 311-2   Physics and Chemistry of Minerals
+            3. MRT 312-2   Genesis Of Mineral Deposits
+            4. MRT 362-2   Analytical Techniques and Instrumentation - I
+
+            ELECTIVE MODULE
+
+            5. MRT 313-2   Gemmology
+            6. MRT 314-1   Gemmology Laboratory
+            7. MRT 315-3   Technical Mineralogy— I
+            8. MRT 316-3   Engineering Geology
+            9. MRT 317-2   Industrial Mineral Processing Technology
+            10.MRT 318-1   Industrial Mineral Processing Laboratory
+
+            OPTIONAL COURSE UNITS
+
+            11.MRT 352-2   Surveying and Levelling
+            12.MRT 353-1   Engineering Workshop Technology
+            13.MRT 355-2   Soil Physics
+            14.MRT 366-1   Computer Programming
+            15.MRT 374-3   Fluid Mechanics and Hydraulics
+            16.MRT 377-2   Oceanography
+
+
+        Semester 2
 
 CORE MODULE
 
-2. MRT 311-2   Physics and Chemistry of Minerals
-3. MRT 312-2   Genesis Of Mineral Deposits
-4. MRT 362-2   Analytical Techniques and Instrumentation - I
-
-ELECTIVE MODULE
-
-5. MRT 313-2   Gemmology
-6. MRT 314-1   Gemmology Laboratory
-7. MRT 315-3   Technical Mineralogy— I
-8. MRT 316-3   Engineering Geology
-9. MRT 317-2   Industrial Mineral Processing Technology
-10.MRT 318-1   Industrial Mineral Processing Laboratory
-
-OPTIONAL COURSE UNITS
-
-11.MRT 352-2   Surveying and Levelling
-12.MRT 353-1   Engineering Workshop Technology
-13.MRT 355-2   Soil Physics
-14.MRT 366-1   Computer Programming
-15.MRT 374-3   Fluid Mechanics and Hydraulics
-16.MRT 377-2   Oceanography
+1. MRT 321-2   Mineral Exploration Methods
+2. MRT 365-3   Remote Sensing and Geospatial Technology
+3. MRT 361-2   Research Methodology and Scientific Writing
