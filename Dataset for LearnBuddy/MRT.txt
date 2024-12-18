@@ -23,3 +23,6 @@ MRT-Mineral Resources and Technology Degree Programme
 1. ESD 122-2   English Language Level II
 2. ESD 152-1   Sinhala Language II(non-GPA)
 3. ESD 162-1   Tamil Language II(non-GPA)
+4. ESD 111-1   Communication Skills I
+5. ESD 141-2   Quantitative Reasoning
+6. SCT 102-2   Calculus
