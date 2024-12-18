@@ -81,3 +81,6 @@ ELECTIVE MODULE
 5. MRT 373-2   Hydrology
 6. MRT 374-3   Fluid Mechanics and Hydraulics
 7. MRT 376-2   Aquatic Microbiology
+8. MRT 377-2   Oceanography
+9. MRT 378-2   Advanced Hydrogeology
+10.MRT 382-3   Water Treatment Methods
