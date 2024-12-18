@@ -127,6 +127,7 @@ CORE MODULE
 
 1. MRT 451-2   Environment and Industry Regulations
 2. MRT 463-2   Analytical Techniques and Instrumentation - II
-    
+3. MRT 471-3   Advanced Water Chemistry
+4. MRT 472-1   Water Chemistry Laboratory - II
 
          
