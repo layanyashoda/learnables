@@ -26,3 +26,5 @@ MRT-Mineral Resources and Technology Degree Programme
 4. ESD 111-1   Communication Skills I
 5. ESD 141-2   Quantitative Reasoning
 6. SCT 102-2   Calculus
+7. SCT 132-2   Inorganic Chemistry
+8. SCT 152-2   Properties of Matter
