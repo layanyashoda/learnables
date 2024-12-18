@@ -67,30 +67,37 @@ MRT-Mineral Resources and Technology Degree Programme
 
         Semester 1
 
-ESD & BCE MODULE
+            ESD & BCE MODULE
 
-1. ESD 311-1   Communication Skills II
+            1. ESD 311-1   Communication Skills II
+
+            CORE MODULE
+            2. MRT 362-2   Analytical Techniques and Instrumentation I
+            3. MRT 371-3   Water Chemistry
+            4. MRT 372-1   Water Chemistry Laboratory I
+
+            ELECTIVE MODULE
+
+            5. MRT 373-2   Hydrology
+            6. MRT 374-3   Fluid Mechanics and Hydraulics
+            7. MRT 376-2   Aquatic Microbiology
+            8. MRT 377-2   Oceanography
+            9. MRT 378-2   Advanced Hydrogeology
+            10.MRT 382-3   Water Treatment Methods
+
+            OPTIONAL COURSE UNITS
+
+            11.MRT 316-3   Engineering Geology
+            12.MRT 352-2   Surveying and Levelling
+            13.MRT 353-1   Engineering Workshop Technology
+            14.MRT 355-2   Soil Physics
+            15.MRT 366-1   Computer Programming
+
+
+Semester 2
 
 CORE MODULE
-2. MRT 362-2   Analytical Techniques and Instrumentation I
-3. MRT 371-3   Water Chemistry
-4. MRT 372-1   Water Chemistry Laboratory I
 
-ELECTIVE MODULE
-
-5. MRT 373-2   Hydrology
-6. MRT 374-3   Fluid Mechanics and Hydraulics
-7. MRT 376-2   Aquatic Microbiology
-8. MRT 377-2   Oceanography
-9. MRT 378-2   Advanced Hydrogeology
-10.MRT 382-3   Water Treatment Methods
-
-OPTIONAL COURSE UNITS
-
-11.MRT 316-3   Engineering Geology
-12.MRT 352-2   Surveying and Levelling
-13.MRT 353-1   Engineering Workshop Technology
-14.MRT 355-2   Soil Physics
-15.MRT 366-1   Computer Programming
-
-
+1. MRT 365-3   Remote Sensing and Geospatial Technology
+2. MRT 381-2   Water Safety Plan
+3. MRT 361-2   Research Methodology and Scientific Writing
