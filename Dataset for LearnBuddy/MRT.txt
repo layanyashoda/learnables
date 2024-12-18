@@ -4,15 +4,22 @@ MRT-Mineral Resources and Technology Degree Programme
 
     semester 1
 
-1. ESD 121-2   English Language Level. I
-2. ESD 151-1   Sinhala Language I (non-GPA)
-3. ESD 161-1   Tamil Language I (non-GPA)
-4. ESD 103-2   Information Technology
-5. BGE 121-2   Ethics and Law Basics
-6. SCT 101-1   Essential Mathematics
-7. SCT 121-1   Introductory Biology
-8. SCT 131-2   General Chemistry
-9. SCT 141-1   Engineering Drawings
-10.SCT 151-2   Mechanics, Waves, and Vibrations
-11.MRT 151-3   Earth Materials and Processes
-12.MRT 152-1   Water Resources I
+        1. ESD 121-2   English Language Level. I
+        2. ESD 151-1   Sinhala Language I (non-GPA)
+        3. ESD 161-1   Tamil Language I (non-GPA)
+        4. ESD 103-2   Information Technology
+        5. BGE 121-2   Ethics and Law Basics
+        6. SCT 101-1   Essential Mathematics
+        7. SCT 121-1   Introductory Biology
+        8. SCT 131-2   General Chemistry
+        9. SCT 141-1   Engineering Drawings
+        10.SCT 151-2   Mechanics, Waves, and Vibrations
+        11.MRT 151-3   Earth Materials and Processes
+        12.MRT 152-1   Water Resources I
+
+
+    Semester 2
+
+1. ESD 122-2   English Language Level II
+2. ESD 152-1   Sinhala Language II(non-GPA)
+3. ESD 162-1   Tamil Language II(non-GPA)
