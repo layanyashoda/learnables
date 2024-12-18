@@ -107,3 +107,5 @@ ELECTIVE MODULE
 4. MRT 351-3   Applied Geophysics
 5. MRT 383-1   Water Treatment Laboratory
 6. MRT 384-2   Water Supply Engineering
+7. MRT 386-3   Groundwater Flow Modelling
+8. MRT 385-2   Wastewater Treatment and Reuse - I
