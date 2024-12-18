@@ -114,3 +114,6 @@ OPTIONAL COURSE UNITS
 
 9. MRT 327-2   Petroleum Exploration and Extraction
 10.MRT 364-1   Computer Aided Drawing and Designing
+11.MRT 392-2   Project Management
+12.IIT 323-2   Human Resource Managements and Industrial Relations
+13.SCT 302-2   Applied Economics and Financial Accounting
