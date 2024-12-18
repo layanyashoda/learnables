@@ -202,3 +202,6 @@ ELECTIVE MODULE
 
 4. MRT 322-2   Gemstone Fashioning
 5. MRT 324-3   Technical Mineralogy— II
+6. MRT 325-2   Mine Planning Strategies
+7. MRT 327-2   Petroleum Exploration and Extraction
+8. MRT 351-3   Applied Geophysics
