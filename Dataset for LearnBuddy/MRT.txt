@@ -232,4 +232,9 @@ MRT 414-2   Jewellery Designing
 MRT 415-3   Ceramic and Glass Technology
 MRT 416-2   Mining Methods
 MRT 417-2   Extractive Metallurgy
-MRT 418-2   Simulation of Mineral Processing Systems
+MRT 418-2   Simulation of Mineral Processing 
+
+OPTIONAL COURSE UNITS
+
+MRT 453-2   Pollution Control and Remediation
+MRT 454-2   Quantity Surveying
