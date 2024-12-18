@@ -179,3 +179,9 @@ ELECTIVE MODULE
 8. MRT 316-3   Engineering Geology
 9. MRT 317-2   Industrial Mineral Processing Technology
 10.MRT 318-1   Industrial Mineral Processing Laboratory
+
+OPTIONAL COURSE UNITS
+
+11.MRT 352-2   Surveying and Levelling
+12.MRT 353-1   Engineering Workshop Technology
+13.MRT 355-2   Soil Physics
