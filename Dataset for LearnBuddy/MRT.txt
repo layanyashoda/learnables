@@ -39,3 +39,6 @@ MRT-Mineral Resources and Technology Degree Programme
 1. CSD 221-2   English Language Level. Ill
 2. BGE 211-2   Aesthetic Studies
 3. SCT 201-1   Abstract Algebra
+4. SCT 211-2   Statistical Methods
+5. SCT 231-2   Physical Chemistry
+6. SCT 251-2   Electricity and Magnetism
