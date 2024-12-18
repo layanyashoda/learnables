@@ -70,3 +70,10 @@ MRT-Mineral Resources and Technology Degree Programme
 ESD & BCE MODULE
 
 1. ESD 311-1   Communication Skills II
+
+CORE MODULE
+2. MRT 362-2   Analytical Techniques and Instrumentation I
+3. MRT 371-3   Water Chemistry
+4. MRT 372-1   Water Chemistry Laboratory I
+
+
