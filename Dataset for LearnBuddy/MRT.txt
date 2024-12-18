@@ -176,3 +176,6 @@ ELECTIVE MODULE
 5. MRT 313-2   Gemmology
 6. MRT 314-1   Gemmology Laboratory
 7. MRT 315-3   Technical Mineralogy— I
+8. MRT 316-3   Engineering Geology
+9. MRT 317-2   Industrial Mineral Processing Technology
+10.MRT 318-1   Industrial Mineral Processing Laboratory
