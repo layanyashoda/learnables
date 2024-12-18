@@ -94,26 +94,39 @@ MRT-Mineral Resources and Technology Degree Programme
             15.MRT 366-1   Computer Programming
 
 
-Semester 2
+    Semester 2
+
+        CORE MODULE
+
+            1. MRT 365-3   Remote Sensing and Geospatial Technology
+            2. MRT 381-2   Water Safety Plan
+            3. MRT 361-2   Research Methodology and Scientific Writing
+
+            ELECTIVE MODULE
+
+            4. MRT 351-3   Applied Geophysics
+            5. MRT 383-1   Water Treatment Laboratory
+            6. MRT 384-2   Water Supply Engineering
+            7. MRT 386-3   Groundwater Flow Modelling
+            8. MRT 385-2   Wastewater Treatment and Reuse - I
+
+            OPTIONAL COURSE UNITS
+
+            9. MRT 327-2   Petroleum Exploration and Extraction
+            10.MRT 364-1   Computer Aided Drawing and Designing
+            11.MRT 392-2   Project Management
+            12.IIT 323-2   Human Resource Managements and Industrial Relations
+            13.SCT 302-2   Applied Economics and Financial Accounting
+
+
+    4th Year
+
+        Semester 1
 
 CORE MODULE
 
-1. MRT 365-3   Remote Sensing and Geospatial Technology
-2. MRT 381-2   Water Safety Plan
-3. MRT 361-2   Research Methodology and Scientific Writing
+1. MRT 451-2   Environment and Industry Regulations
+2. MRT 463-2   Analytical Techniques and Instrumentation - II
+    
 
-ELECTIVE MODULE
-
-4. MRT 351-3   Applied Geophysics
-5. MRT 383-1   Water Treatment Laboratory
-6. MRT 384-2   Water Supply Engineering
-7. MRT 386-3   Groundwater Flow Modelling
-8. MRT 385-2   Wastewater Treatment and Reuse - I
-
-OPTIONAL COURSE UNITS
-
-9. MRT 327-2   Petroleum Exploration and Extraction
-10.MRT 364-1   Computer Aided Drawing and Designing
-11.MRT 392-2   Project Management
-12.IIT 323-2   Human Resource Managements and Industrial Relations
-13.SCT 302-2   Applied Economics and Financial Accounting
+         
