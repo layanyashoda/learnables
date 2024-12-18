@@ -76,4 +76,8 @@ CORE MODULE
 3. MRT 371-3   Water Chemistry
 4. MRT 372-1   Water Chemistry Laboratory I
 
+ELECTIVE MODULE
 
+5. MRT 373-2   Hydrology
+6. MRT 374-3   Fluid Mechanics and Hydraulics
+7. MRT 376-2   Aquatic Microbiology
