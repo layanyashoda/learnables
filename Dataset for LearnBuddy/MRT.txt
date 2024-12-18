@@ -134,4 +134,7 @@ ELECTIVE MODULE
 
 5. MRT 473-2   Wastewater Treatment and Reuse - II
 6. MRT 474-1   Nanotechnology for Water Treatment
-         
+7. MRT 475-2   Bottled Water Technology
+8. MRT 476-3   Solute Transport and Reactive Fluid Flow Modelling
+9. MRT 478-2   Water Wells and Pumps
+
