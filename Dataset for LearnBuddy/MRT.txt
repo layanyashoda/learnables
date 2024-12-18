@@ -230,3 +230,6 @@ ELECTIVE MODULE
 MRT 413-2   Gem Enhancement Techniques
 MRT 414-2   Jewellery Designing
 MRT 415-3   Ceramic and Glass Technology
+MRT 416-2   Mining Methods
+MRT 417-2   Extractive Metallurgy
+MRT 418-2   Simulation of Mineral Processing Systems
