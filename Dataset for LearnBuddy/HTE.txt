@@ -14,4 +14,7 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 6. HTE 101–3   Introduction to Tourism                           
 7. HTE 161–2   Business Mathematics                              
 8. HTE 162–2   Introductory Economics (NGPA)                     
+9. HTE 171–3   Principles of Management                          
+10.HTE 172–2   Fundamentals of Marketing                         
+
 
