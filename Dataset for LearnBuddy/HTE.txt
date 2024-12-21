@@ -42,3 +42,5 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 2. ESD 221 – 1   Effective English Usage   
 3. HTE 211 - 2   Advanced Cookery                         
 4. HTE 201 – 2   Service Marketing 
+5. HTE 202 – 2   Material Management in Tourism           
+6. HTE 231 – 2   Events Planning
