@@ -60,3 +60,6 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 6. HTE 204 – 2   Customs and Practices in Different Cultures  
 7. HTE 205 – 3   Entrepreneurship for Tourism                         
 8. HTE 212 – 2   Advanced Restaurant Management  
+9. HTE 251 – 2   Japanese Language I (OP)/                            
+   HTE 252 - 2   Chinese Language I (OP)/
+   HTE 253 – 2   Hindi Language I (OP) 
