@@ -58,3 +58,5 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 4. ESD 298 – 1   Career Development II  (NGPA)    
 5. HTE 203 – 2   Facility Management in Tourism                       
 6. HTE 204 – 2   Customs and Practices in Different Cultures  
+7. HTE 205 – 3   Entrepreneurship for Tourism                         
+8. HTE 212 – 2   Advanced Restaurant Management  
