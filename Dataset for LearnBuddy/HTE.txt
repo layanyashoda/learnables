@@ -25,3 +25,5 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 3. ESD 141 – 2   Quantitative Reasoning                           
 4. ESD 152 - 1   Sinhala Language II / Tamil Language II (NGPA)   
    ESD 162 – 1
+5. HTE 102 - 2   Management Information Systems                   
+6. HTE 111 – 2   Basics in Restaurant Management 
