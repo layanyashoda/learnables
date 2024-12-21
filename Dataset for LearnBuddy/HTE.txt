@@ -46,3 +46,5 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 6. HTE 231 – 2   Events Planning
 7. HTE 241 – 2   ICT for Tourism                          
 8. HTE 271 – 3   Organizational Behavior
+9. HTE 261 – 2   Tourism Economics                        
+10.HTE 272 – 2   Financial Accounting
