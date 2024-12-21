@@ -52,16 +52,34 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 
     Semester 2
 
-1. BGE 213 – 1   History                                              
-2. BGE 214 – 1   Geography           
-3. ESD 222 – 1   Explorative English                                  
-4. ESD 298 – 1   Career Development II  (NGPA)    
-5. HTE 203 – 2   Facility Management in Tourism                       
-6. HTE 204 – 2   Customs and Practices in Different Cultures  
-7. HTE 205 – 3   Entrepreneurship for Tourism                         
-8. HTE 212 – 2   Advanced Restaurant Management  
-9. HTE 251 – 2   Japanese Language I (OP)/                            
-   HTE 252 - 2   Chinese Language I (OP)/
-   HTE 253 – 2   Hindi Language I (OP) 
-10.HTE 273 – 2   Cost and Management Accounting                       
-11.HTE 262 – 2   Statistics  
+        1. BGE 213 – 1   History                                              
+        2. BGE 214 – 1   Geography           
+        3. ESD 222 – 1   Explorative English                                  
+        4. ESD 298 – 1   Career Development II  (NGPA)    
+        5. HTE 203 – 2   Facility Management in Tourism                       
+        6. HTE 204 – 2   Customs and Practices in Different Cultures  
+        7. HTE 205 – 3   Entrepreneurship for Tourism                         
+        8. HTE 212 – 2   Advanced Restaurant Management  
+        9. HTE 251 – 2   Japanese Language I (OP)/                            
+           HTE 252 - 2   Chinese Language I (OP)/
+           HTE 253 – 2   Hindi Language I (OP) 
+        10.HTE 273 – 2   Cost and Management Accounting                       
+        11.HTE 262 – 2   Statistics  
+
+
+3rd Year
+
+    Semester 1
+
+        1. ESD 311 – 1   Communication Skills II                             
+        2. ESD 398 – 1   Career Development III  (NGPA)                      
+        3. HTE 301 - 3   Special Interest Tourism                            
+        4. HTE 302 – 2   Heritage and Cultural Tourism                       
+        5. HTE 331 – 2   Catering and Banquet Management                     
+        6. HTE 332 - 2   Events Management                                   
+        7. HTE 341 – 2   GIS for Tourism                                     
+        8. HTE 351 – 2   Japanese Language II (OP)                            
+           HTE 352 - 2   Chinese Language II
+         HTE 353 – 2   Hindi Language II
+        9. HTE 354 – 1   English for Tourism                                  
+        10.HTE 303 – 2   Cost Control in Tourism 
