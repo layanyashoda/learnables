@@ -54,3 +54,5 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 
 1. BGE 213 – 1   History                                              
 2. BGE 214 – 1   Geography           
+3. ESD 222 – 1   Explorative English                                  
+4. ESD 298 – 1   Career Development II  (NGPA)    
