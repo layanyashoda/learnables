@@ -20,15 +20,23 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 
     Semester 2
 
-1. ESD 111 – 1   Communication Skills I                           
-2. ESD 122 – 1   Communicative English
-3. ESD 141 – 2   Quantitative Reasoning                           
-4. ESD 152 - 1   Sinhala Language II / Tamil Language II (NGPA)   
-   ESD 162 – 1
-5. HTE 102 - 2   Management Information Systems                   
-6. HTE 111 – 2   Basics in Restaurant Management 
-7. HTE 112 – 2   Rooms Division Management                        
-8. HTE 163 – 2   Project Management      
-9. HTE 173 – 2   Basic Accounting (OP) (NGPA)                     
-10.HTE 113 - 2   Basics in Cookery
-11.HTE 174 – 3   Human Resources Management
+        1. ESD 111 – 1   Communication Skills I                           
+        2. ESD 122 – 1   Communicative English
+        3. ESD 141 – 2   Quantitative Reasoning                           
+        4. ESD 152 - 1   Sinhala Language II / Tamil Language II (NGPA)   
+        ESD 162 – 1
+        5. HTE 102 - 2   Management Information Systems                   
+        6. HTE 111 – 2   Basics in Restaurant Management 
+        7. HTE 112 – 2   Rooms Division Management                        
+        8. HTE 163 – 2   Project Management      
+        9. HTE 173 – 2   Basic Accounting (OP) (NGPA)                     
+        10.HTE 113 - 2   Basics in Cookery
+        11.HTE 174 – 3   Human Resources Management
+
+ 
+2nd Year
+
+    Semester 1
+
+1. BGE 211 – 2   Aesthetic Studies                        
+2. ESD 221 – 1   Effective English Usage   
