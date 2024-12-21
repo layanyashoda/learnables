@@ -12,3 +12,6 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
    ESD 161-1
 5. ESD 198–1   Career Development I (NGPA)                       
 6. HTE 101–3   Introduction to Tourism                           
+7. HTE 161–2   Business Mathematics                              
+8. HTE 162–2   Introductory Economics (NGPA)                     
+
