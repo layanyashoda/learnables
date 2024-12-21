@@ -63,3 +63,5 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 9. HTE 251 – 2   Japanese Language I (OP)/                            
    HTE 252 - 2   Chinese Language I (OP)/
    HTE 253 – 2   Hindi Language I (OP) 
+10.HTE 273 – 2   Cost and Management Accounting                       
+11.HTE 262 – 2   Statistics  
