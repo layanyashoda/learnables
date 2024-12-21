@@ -5,16 +5,20 @@ HTE- Hospitality, Tourism and Events Management Degree Programme
 
     Semester 1
 
-1. BGE 121-2   Ethics and Law Basics                             
-2. ESD 103-2   Information Technology 
-3. ESD 121-1   English Language                                  
-4. ESD 151-1/  Sinhala Language I/ Tamil Language I (OP)(NGPA)   
-   ESD 161-1
-5. ESD 198–1   Career Development I (NGPA)                       
-6. HTE 101–3   Introduction to Tourism                           
-7. HTE 161–2   Business Mathematics                              
-8. HTE 162–2   Introductory Economics (NGPA)                     
-9. HTE 171–3   Principles of Management                          
-10.HTE 172–2   Fundamentals of Marketing                         
+        1. BGE 121-2   Ethics and Law Basics                             
+        2. ESD 103-2   Information Technology 
+        3. ESD 121-1   English Language                                  
+        4. ESD 151-1/  Sinhala Language I/ Tamil Language I (OP)(NGPA)   
+        ESD 161-1
+        5. ESD 198–1   Career Development I (NGPA)                       
+        6. HTE 101–3   Introduction to Tourism                           
+        7. HTE 161–2   Business Mathematics                              
+        8. HTE 162–2   Introductory Economics (NGPA)                     
+        9. HTE 171–3   Principles of Management                          
+        10.HTE 172–2   Fundamentals of Marketing                         
 
 
+    Semester 2
+
+1. ESD 111 – 1   Communication Skills I                           
+2. ESD 122 – 1   Communicative English
