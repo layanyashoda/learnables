@@ -57,3 +57,5 @@ ELAL- English Language and Applied Linguistics Degree Programme
 
 1. ELAL 331-3	Translation Projects	
 2. ELAL 311-3	Curriculum Design and Material Development
+3. ELAL 312-2	Current Issues in L2 Teaching/Learning	
+4. ELAL 321-3	Literary Theory and Criticism	
