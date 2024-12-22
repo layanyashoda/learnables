@@ -17,3 +17,5 @@ ELAL- English Language and Applied Linguistics Degree Programme
 
 1. ELAL 114-2	Syntax and Semantics	
 2. ELAL 102-3	Academic Writing
+3. ELAL 115-2	Brain and Language	
+4. ELAL 116-2	Introduction to TESL
