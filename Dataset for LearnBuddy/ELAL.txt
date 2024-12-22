@@ -43,3 +43,5 @@ ELAL- English Language and Applied Linguistics Degree Programme
 
 1. ELAL 214-2	Syntax	
 2. ELAL 215-2	Testing and Evaluation	
+3. ELAL 211-3	Sociolinguistics		
+4. ELAL 241-2	Mathematics for Language Studies
