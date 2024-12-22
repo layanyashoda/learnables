@@ -55,10 +55,17 @@ ELAL- English Language and Applied Linguistics Degree Programme
 
     Semester 1
 
-1. ELAL 331-3	Translation Projects	
-2. ELAL 311-3	Curriculum Design and Material Development
-3. ELAL 312-2	Current Issues in L2 Teaching/Learning	
-4. ELAL 321-3	Literary Theory and Criticism	
-5. ELAL 301-3	English for Professional Communication	
-6. ELAL 316-2	Teaching Knowledge Assessment
-7. ELAL 313-2	Language Universals
+        1. ELAL 331-3	Translation Projects	
+        2. ELAL 311-3	Curriculum Design and Material Development
+        3. ELAL 312-2	Current Issues in L2 Teaching/Learning	
+        4. ELAL 321-3	Literary Theory and Criticism	
+        5. ELAL 301-3	English for Professional Communication	
+        6. ELAL 316-2	Teaching Knowledge Assessment
+        7. ELAL 313-2	Language Universals
+
+
+    Semester 2
+
+1. ELAL 315-3	Error Analysis in Language Learning	
+2. ELAL 314-3	Discourse Analysis	
+3. ELAL 302-3	Writing across Disciplines
