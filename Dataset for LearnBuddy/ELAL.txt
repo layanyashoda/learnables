@@ -81,3 +81,4 @@ ELAL- English Language and Applied Linguistics Degree Programme
 2. ELAL 412-3	Communication Disorders and Speech Therapy
 3. ELAL 401-3	Editing Proofreading and Review Writing	
 4. ELAL 451-3	Career Development
+5. ELAL 491-8	Dissertation
