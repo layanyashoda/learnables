@@ -35,3 +35,5 @@ ELAL- English Language and Applied Linguistics Degree Programme
 4. ELAL 242-2	Seminar on National Education in Sri Lanka
 5. ELAL 221-2	Aesthetics	
 6. ELAL 251-2	Handling Screen Reading Software for Special Learner
+7. ELAL 252-2	Soft Skills for Learning and Teaching		
+8. ELAL 263-2	Computer Assisted Language Learning and Teaching (CALLT)
