@@ -29,11 +29,17 @@ ELAL- English Language and Applied Linguistics Degree Programme
 
     Semester 1
 
-1. ELAL 212-3	Language Acquisition	
-2. ELAL 213-3	ELT Focus
-3. ELAL 231-3	Translation for Specific Purposes (TSP)	
-4. ELAL 242-2	Seminar on National Education in Sri Lanka
-5. ELAL 221-2	Aesthetics	
-6. ELAL 251-2	Handling Screen Reading Software for Special Learner
-7. ELAL 252-2	Soft Skills for Learning and Teaching		
-8. ELAL 263-2	Computer Assisted Language Learning and Teaching (CALLT)
+        1. ELAL 212-3	Language Acquisition	
+        2. ELAL 213-3	ELT Focus
+        3. ELAL 231-3	Translation for Specific Purposes (TSP)	
+        4. ELAL 242-2	Seminar on National Education in Sri Lanka
+        5. ELAL 221-2	Aesthetics	
+        6. ELAL 251-2	Handling Screen Reading Software for Special Learner
+        7. ELAL 252-2	Soft Skills for Learning and Teaching		
+        8. ELAL 263-2	Computer Assisted Language Learning and Teaching (CALLT)
+
+
+    Semester 2
+
+1. ELAL 214-2	Syntax	
+2. ELAL 215-2	Testing and Evaluation	
