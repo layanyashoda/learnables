@@ -69,3 +69,5 @@ ELAL- English Language and Applied Linguistics Degree Programme
 1. ELAL 315-3	Error Analysis in Language Learning	
 2. ELAL 314-3	Discourse Analysis	
 3. ELAL 302-3	Writing across Disciplines
+4. ELAL 322-3	World Literature	
+5. ELAL 391-3	Research Methods in Language Sciences
