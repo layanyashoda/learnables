@@ -21,3 +21,5 @@ ELAL- English Language and Applied Linguistics Degree Programme
 4. ELAL 116-2	Introduction to TESL
 5. ELAL 122-3	Sri Lankan Literature	
 6. ELAL 141-2	Essential Mathematics	
+7. ESD  111-2	Communication Skills	
+8. ESD  141-2	Quantitative Reasoning
