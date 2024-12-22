@@ -9,3 +9,6 @@ ELAL- English Language and Applied Linguistics Degree Programme
 4. ELAL 101-2   English for Study Purposes
 5. ELAL 131-3   Introduction to Translation	
 6. ELAL 121-2   Introduction to Literature in English
+7. ESD  103-2   Information Technology	
+8. BGE  121-2   Ethics & Law Basics	
+
