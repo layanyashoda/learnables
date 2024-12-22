@@ -61,3 +61,4 @@ ELAL- English Language and Applied Linguistics Degree Programme
 4. ELAL 321-3	Literary Theory and Criticism	
 5. ELAL 301-3	English for Professional Communication	
 6. ELAL 316-2	Teaching Knowledge Assessment
+7. ELAL 313-2	Language Universals
