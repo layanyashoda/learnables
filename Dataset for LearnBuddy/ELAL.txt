@@ -47,3 +47,6 @@ ELAL- English Language and Applied Linguistics Degree Programme
 4. ELAL 241-2	Mathematics for Language Studies
 5. ELAL 232-3	Translation Methods and Practices			
 6. ELAL 201-2	Writing and Composition	
+7. BGE  213-1	History	
+8. BGE  214-1	Geography
+
