@@ -77,8 +77,13 @@ ELAL- English Language and Applied Linguistics Degree Programme
 
     Semester 1
 
-1. ELAL 411-3	World Englishes	
-2. ELAL 412-3	Communication Disorders and Speech Therapy
-3. ELAL 401-3	Editing Proofreading and Review Writing	
-4. ELAL 451-3	Career Development
-5. ELAL 491-8	Dissertation
+        1. ELAL 411-3	World Englishes	
+        2. ELAL 412-3	Communication Disorders and Speech Therapy
+        3. ELAL 401-3	Editing Proofreading and Review Writing	
+        4. ELAL 451-3	Career Development
+        5. ELAL 491-8	Dissertation
+
+    Semester 2
+
+        1. ELAL 452-4	Business and Information Technology Applications
+        2. ELAL 492-6	Internship/ Practicum
