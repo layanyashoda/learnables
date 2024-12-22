@@ -3,12 +3,17 @@ ELAL- English Language and Applied Linguistics Degree Programme
 1st Year
 
     Semester 1
-1. ELAL 111-2   Introduction to Language and Linguistics	
-2. ELAL 112-3   Introduction to Phonetics and Phonology
-3. ELAL 113-2   Introduction to Morphology	
-4. ELAL 101-2   English for Study Purposes
-5. ELAL 131-3   Introduction to Translation	
-6. ELAL 121-2   Introduction to Literature in English
-7. ESD  103-2   Information Technology	
-8. BGE  121-2   Ethics & Law Basics	
+        1. ELAL 111-2   Introduction to Language and Linguistics	
+        2. ELAL 112-3   Introduction to Phonetics and Phonology
+        3. ELAL 113-2   Introduction to Morphology	
+        4. ELAL 101-2   English for Study Purposes
+        5. ELAL 131-3   Introduction to Translation	
+        6. ELAL 121-2   Introduction to Literature in English
+        7. ESD  103-2   Information Technology	
+        8. BGE  121-2   Ethics & Law Basics	
 
+
+    Semester 2
+
+1. ELAL 114-2	Syntax and Semantics	
+2. ELAL 102-3	Academic Writing
