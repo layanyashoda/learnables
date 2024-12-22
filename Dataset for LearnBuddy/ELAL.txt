@@ -31,3 +31,5 @@ ELAL- English Language and Applied Linguistics Degree Programme
 
 1. ELAL 212-3	Language Acquisition	
 2. ELAL 213-3	ELT Focus
+3. ELAL 231-3	Translation for Specific Purposes (TSP)	
+4. ELAL 242-2	Seminar on National Education in Sri Lanka
