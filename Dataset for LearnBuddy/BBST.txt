@@ -20,10 +20,14 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
     Semester 2
 
-ESD 111-1 Communication skills I (CC)
-ESD 122-1 Communicative English (CC)
-ESD 152-1 Sinhala Language II (CC) (NGPA)
-ESD 162-1 Tamil Language II (CC) (NGPA)
-BST 103-2 Basic Calculus (CC)
-BST 112-2 Fundamentals for Biotechnology (CC)
-BST 122-2 Organic Chemistry (CC)
+1. ESD 111-1   Communication skills I (CC)
+2. ESD 122-1   Communicative English (CC)
+3. ESD 152-1   Sinhala Language II (CC) (NGPA)
+4. ESD 162-1   Tamil Language II (CC) (NGPA)
+5. BST 103-2   Basic Calculus (CC)
+6. BST 112-2   Fundamentals for Biotechnology (CC)
+7. BST 122-2   Organic Chemistry (CC)
+8. BST 131-3   Physics for Technology (CC)
+9. BST 141-3   Computer Programming Concepts (CC)
+10.BST 152-1   Analytical Techniques for Biosystems Technology (CC)
+
