@@ -26,3 +26,5 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 5. MET 142-3   Computer Programming (CC)
 6. ESD 152-1   Sinhala Language II (CC) NGPA
 7. ESD 162-1   Tamil Language 11 (CC) NGPA
+8. MET 161-3   Materials Science for Engineering Technology (CC)
+9. MET 172-3   Engineering Drawing & CAD (CC)
