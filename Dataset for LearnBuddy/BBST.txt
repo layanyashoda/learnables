@@ -50,14 +50,18 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
     Semester 2
 
-ESD 222-1 Explorative English (CC)
-BST 222-2 Biochemistry (CC) 
-BST 232-2 Biophysics (CC)
-BST 241-2 Occupational Health and Safety (CC)
-BST 254-2 In-vitro Propagation Techniques (CC)
+ESD 222-1   Explorative English (CC)
+BST 222-2   Biochemistry (CC) 
+BST 232-2   Biophysics (CC)
+BST 241-2   Occupational Health and Safety (CC)
+BST 254-2   In-vitro Propagation Techniques (CC)
 BST 255-2   Fundamentals for Fermentation Technology (CC)
 BST 256-2   Biotechnological Approaches for Biosystems (CC) 
 BST 257-1   Introduction to Food Science & Technology (CC)
+BST 203-2   Numerical Methods for Biosystems Technology (OC)
+BST 233-2   Fundamentals of Electronics for Biosystems Technology (OC)
+BST 244-2   Workshop Technology (OC)
+
 
 
 
