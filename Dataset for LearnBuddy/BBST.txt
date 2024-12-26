@@ -11,3 +11,6 @@ Semester 1
 1. ESD 103-2   Information Technology (CC)
 2. ESD 121-1   English Language (CC)
 3. ESD 151-1   Sinhala Language I (CC) (NGPA)
+4. ESD 161-1   Tamil Language I (CC) (NGPA)
+5. BST 101-1   Introductory Mathematics (CC)
+6. BST 102-2   Introductory Statistics (CC)
