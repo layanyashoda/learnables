@@ -56,11 +56,15 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
     Semester 1
 
-1. MET 316-2   Probability and Statistics (CC)
-2. MET 351-2   Engineering Measurements and Instruments (CC)
-3. MET 371-3   Manufacturing Technology (CC)
-4. MET 372-3   Product Modeling & Design (CC)
-5. MET 373-2   Applied Thermodynamics (CC)
-6. MET 374-3   Group Design Project (CC)
-7. MET 375-3   Automobile Engineering (CC)
+        1. MET 316-2   Probability and Statistics (CC)
+        2. MET 351-2   Engineering Measurements and Instruments (CC)
+        3. MET 371-3   Manufacturing Technology (CC)
+        4. MET 372-3   Product Modeling & Design (CC)
+        5. MET 373-2   Applied Thermodynamics (CC)
+        6. MET 374-3   Group Design Project (CC)
+        7. MET 375-3   Automobile Engineering (CC)
 
+    
+    Semester 2
+
+    1. MET 376-6   Industrial Training (CC)
