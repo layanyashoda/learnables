@@ -34,9 +34,14 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
     Semester 1
 
-1. BGE 211-2   Aesthetic studies (CC)
-2. MET 211-3   Numerical Methods (CC)
-3. MET 251-3   Fundamentals of Electrical Engineering (CC)
-4. MET 252-3   Fundamentals of Electronic Engineering (CC)
-5. MET 261-3   Mechanics of Machines (CC)
-6. MET 271-3   Fundamentals of Thermodynamics CCC)
+        1. BGE 211-2   Aesthetic studies (CC)
+        2. MET 211-3   Numerical Methods (CC)
+        3. MET 251-3   Fundamentals of Electrical Engineering (CC)
+        4. MET 252-3   Fundamentals of Electronic Engineering (CC)
+        5. MET 261-3   Mechanics of Machines (CC)
+        6. MET 271-3   Fundamentals of Thermodynamics (CC)
+
+    Semester 2
+
+1. MET 212-2   Complex Analysis and Mathematical Transforms (CC)
+2. MET 231-2   Engineering Ethics (CC)
