@@ -6,13 +6,19 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
 1st Year
 
-Semester 1
+    Semester 1
 
-1. ESD 103-2   Information Technology (CC)
-2. ESD 121-1   English Language (CC)
-3. ESD 151-1   Sinhala Language I (CC) (NGPA)
-4. ESD 161-1   Tamil Language I (CC) (NGPA)
-5. BST 101-1   Introductory Mathematics (CC)
-6. BST 102-2   Introductory Statistics (CC)
-7. BST 111-3   Principles of Biology (CC)
-8. BST 121-3   General Chemistry (CC)
+        1. ESD 103-2   Information Technology (CC)
+        2. ESD 121-1   English Language (CC)
+        3. ESD 151-1   Sinhala Language I (CC) (NGPA)
+        4. ESD 161-1   Tamil Language I (CC) (NGPA)
+        5. BST 101-1   Introductory Mathematics (CC)
+        6. BST 102-2   Introductory Statistics (CC)
+        7. BST 111-3   Principles of Biology (CC)
+        8. BST 121-3   General Chemistry (CC)
+
+
+    Semester 2
+
+ESD 111-1 Communication skills I (CC)
+ESD 122-1 Communicative English (CC)
