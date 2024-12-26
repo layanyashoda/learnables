@@ -7,12 +7,17 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
    Semester 1
 
-1. MET 111-4   Fundamentals of Mathematics (CC)
-2. ESD 121-1   English Language (CC)
-3. MET 121-3   Physics (CC)
-4. MET 122-2   Chemistry (CC)
-5. MET 141-3   Introduction to Computer Engineering (CC)
-6. ESD 151-1   Sinhala Language I (CC) NGPA
-7. ESD 161-1   Tamil Language I (CC) NGPA
-8. MET 171-3   Workshop Technology (CC)
+        1. MET 111-4   Fundamentals of Mathematics (CC)
+        2. ESD 121-1   English Language (CC)
+        3. MET 121-3   Physics (CC)
+        4. MET 122-2   Chemistry (CC)
+        5. MET 141-3   Introduction to Computer Engineering (CC)
+        6. ESD 151-1   Sinhala Language I (CC) NGPA
+        7. ESD 161-1   Tamil Language I (CC) NGPA
+        8. MET 171-3   Workshop Technology (CC)
 
+
+    Semester 2
+
+1. ESD 111-1   Communication skills (CC)
+2. MET 112-2   Fundamentals of Statistics (CC)
