@@ -89,3 +89,5 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
 1. MET 434-2   Business Management Entrepreneurship (CC)
 2. MET 435-2   Energy Management (OC)
+3. MET 436-2   Industrial Quality (CC)
+4. MET 471-6   Final Year Project-continue (CC)
