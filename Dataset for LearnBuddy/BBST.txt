@@ -14,3 +14,5 @@ Semester 1
 4. ESD 161-1   Tamil Language I (CC) (NGPA)
 5. BST 101-1   Introductory Mathematics (CC)
 6. BST 102-2   Introductory Statistics (CC)
+7. BST 111-3   Principles of Biology (CC)
+8. BST 121-3   General Chemistry (CC)
