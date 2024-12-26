@@ -77,3 +77,6 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
 1. MET 431-1   Safety and Risk Management (OC)
 2. MET 432-2   Engineering Economics (CC)
+3. MET 433-1   Scientific Writing (CC)
+4. MET 471-6   Final Year Project (CC)
+5. MET 472-3   Farm Machinery (CC)
