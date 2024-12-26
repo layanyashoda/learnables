@@ -36,9 +36,13 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
     Semester 1
 
-BGE 211-2 Aesthetic Studies (CC) 
-ESD 221-1 Effective English Usage (CC)
-BST 201-1 Engineering Drawing (CC)
-BST 202-2 Biostatistics (CC)
-BST 221-2 Industrial Chemistry (CC)
-BST 231-2 Thermodynamics in Biosystems (CC)
+1. BGE 211-2   Aesthetic Studies (CC) 
+2. ESD 221-1   Effective English Usage (CC)
+BST 201-1   Engineering Drawing (CC)
+BST 202-2   Biostatistics (CC)
+BST 221-2   Industrial Chemistry (CC)
+BST 231-2   Thermodynamics in Biosystems (CC)
+BST 251-3   Introductory Microbiology (CC)
+BST 252-1   Introduction to Industrial Biosystems Technology (CC) 
+BST 253-2   Green Technology (CC)
+BST 261-0   Mini Projects in Biosystems Technology (CC)
