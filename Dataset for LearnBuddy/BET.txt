@@ -91,3 +91,6 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 2. MET 435-2   Energy Management (OC)
 3. MET 436-2   Industrial Quality (CC)
 4. MET 471-6   Final Year Project-continue (CC)
+5. MET 476-2   Industrial Engineering Technology (CC)
+6. MET 477-3   Farm Machinery Technology II (CC)
+7. MET 478-2   Building Service Technology (OC)
