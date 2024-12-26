@@ -75,11 +75,17 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
     Semester 1
 
-1. MET 431-1   Safety and Risk Management (OC)
-2. MET 432-2   Engineering Economics (CC)
-3. MET 433-1   Scientific Writing (CC)
-4. MET 471-6   Final Year Project (CC)
-5. MET 472-3   Farm Machinery (CC)
-6. MET 473-3   Mechatronics (CC)
-7. MET 474-2   Maintenance Management (CC)
-8. MET 475-1   Sustainable Consumption and Production (OC)
+        1. MET 431-1   Safety and Risk Management (OC)
+        2. MET 432-2   Engineering Economics (CC)
+        3. MET 433-1   Scientific Writing (CC)
+        4. MET 471-6   Final Year Project (CC)
+        5. MET 472-3   Farm Machinery (CC)
+        6. MET 473-3   Mechatronics (CC)
+        7. MET 474-2   Maintenance Management (CC)
+        8. MET 475-1   Sustainable Consumption and Production (OC)
+
+
+    Semester 2
+
+1. MET 434-2   Business Management Entrepreneurship (CC)
+2. MET 435-2   Energy Management (OC)
