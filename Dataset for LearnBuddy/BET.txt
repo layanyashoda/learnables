@@ -43,10 +43,18 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
     Semester 2
 
-1. MET 212-2   Complex Analysis and Mathematical Transforms (CC)
-2. MET 231-2   Engineering Ethics (CC)
-3. MET 253-3   Electrical Machines (CC)
-4. MET 262-2   Mechanics of Materials (CC)
-5. MET 272-2   Computer-Aided Design & Computer-Aided Manufacturing (CAD/CAM)     (CC)
-6. MET 273-3   Fluid Mechanics (CC)
-7. MET 274-3   Controls and Instrumentation Engineering (CC)
+        1. MET 212-2   Complex Analysis and Mathematical Transforms (CC)
+        2. MET 231-2   Engineering Ethics (CC)
+        3. MET 253-3   Electrical Machines (CC)
+        4. MET 262-2   Mechanics of Materials (CC)
+        5. MET 272-2   Computer-Aided Design & Computer-Aided Manufacturing (CAD/CAM)     (CC)
+        6. MET 273-3   Fluid Mechanics (CC)
+        7. MET 274-3   Controls and Instrumentation Engineering (CC)
+
+
+3rd Year
+
+    Semester 1
+
+1. MET 316-2   Probability and Statistics (CC)
+2. MET 351-2   Engineering Measurements and Instruments (CC)
