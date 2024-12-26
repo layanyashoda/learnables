@@ -9,4 +9,5 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
 1. MET 111-4   Fundamentals of Mathematics (CC)
 2. ESD 121-1   English Language (CC)
-
+3. MET 121-3   Physics (CC)
+4. MET 122-2   Chemistry (CC)
