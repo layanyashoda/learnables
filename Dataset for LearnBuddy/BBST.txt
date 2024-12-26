@@ -22,3 +22,5 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
 ESD 111-1 Communication skills I (CC)
 ESD 122-1 Communicative English (CC)
+ESD 152-1 Sinhala Language II (CC) (NGPA)**
+ESD 162-1 Tamil Language II (CC) (NGPA)**
