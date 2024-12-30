@@ -108,9 +108,9 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
         Food Technology
 
 
-FST 306-1   Food Microbiology
-FST 307-1   Beverage Technology 
-FST 308-1   Dairy Products Processing Technology
-FST 309-3   Food Analysis and Sensory Evaluation Techniques
-FST 310-2   Food Packaging and Labeling
-FST 311-1   Food Machinery
+            1. FST 306-1   Food Microbiology
+            2. FST 307-1   Beverage Technology 
+            3. FST 308-1   Dairy Products Processing Technology
+            4. FST 309-3   Food Analysis and Sensory Evaluation Techniques
+            5. FST 310-2   Food Packaging and Labeling
+            6. FST 311-1   Food Machinery
