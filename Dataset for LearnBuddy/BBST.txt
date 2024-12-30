@@ -93,12 +93,14 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
         Industrial Biosystems Technology 
 
-BST 301-1 Experimental Design (CC)
-BST 343-2 Professional Ethics and Human Values (CC)
-BST 344-2 Human Resource Management (CC)
-BST 345-2 Project Formulation and Management (CC)
-BST 352-2   Utilization of Biosystems in Waste Management (CC)
-BST 361-2   Independent Studies and Seminar in Biosystems Technology (CC) (Cont.)
-IBT 306-2 Industrial Biotechnology (CC)
-IBT 307-2   Bioprospecting for Sustainable Development (CC)
+            1. BST 301-1   Experimental Design (CC)
+            2. BST 343-2   Professional Ethics and Human Values (CC)
+            3. BST 344-2   Human Resource Management (CC)
+            4. BST 345-2   Project Formulation and Management (CC)
+            5. BST 352-2   Utilization of Biosystems in Waste Management (CC)
+            6. BST 361-2   Independent Studies and Seminar in Biosystems Technology (CC) (Cont.)
+            7. IBT 306-2   Industrial Biotechnology (CC)
+            8. IBT 307-2   Bioprospecting for Sustainable Development (CC)
+            9. IBT 308-2   Fluid Mechanics and Heat Transfer for Industrial Technology (CC)
+            10.IBT 309-2   Applications of Biomaterials (CC)
 
