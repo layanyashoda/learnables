@@ -104,3 +104,13 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
             9. IBT 308-2   Fluid Mechanics and Heat Transfer for Industrial Technology (CC)
             10.IBT 309-2   Applications of Biomaterials (CC)
 
+               
+        Food Technology
+
+
+FST 306-1   Food Microbiology
+FST 307-1   Beverage Technology 
+FST 308-1   Dairy Products Processing Technology
+FST 309-3   Food Analysis and Sensory Evaluation Techniques
+FST 310-2   Food Packaging and Labeling
+FST 311-1   Food Machinery
