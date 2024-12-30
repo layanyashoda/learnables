@@ -130,9 +130,18 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
         Industrial Biosystems Technology 
  
-BST 441-2   Entrepreneurship, Innovation, and Commercialization (CC) 
-BST 451-2   Advanced Analytical Techniques for Biosystems Technology (CC)
-BST 462-8 Research Project (CC) (Cont.)
-IBT 401-2 Biosensors and Applications (CC)
+            1. BST 441-2   Entrepreneurship, Innovation, and Commercialization (CC) 
+            2. BST 451-2   Advanced Analytical Techniques for Biosystems Technology (CC)
+            3. BST 462-8   Research Project (CC) (Cont.)
+            4. IBT 401-2   Biosensors and Applications (CC)
+            5. IBT 402-2   Pharmaceutical Technology (CC)
 
+        
+        Food Technology
 
+            1. IBT 403-2   Development, Screening, and Utilization of Biofertilizer (OC)
+            2. IBT 404-2   Wood and Wood Based Technology (OC)
+            3. FST 401-2   Food Safety and Quality Control (CC)
+            4. FST 402-1   Applications of Biotechnology in Food Science (OC)
+            5. FST 403-2   Functional Foods and Nutraceuticals (OC)
+            6. FST 404-2   Food Nutrition (OC)
