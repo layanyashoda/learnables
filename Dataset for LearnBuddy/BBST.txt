@@ -94,6 +94,6 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
         Industrial Biosystems Technology 
 
 BST 301-1 Experimental Design (CC)
-
-
-
+BST 343-2 Professional Ethics and Human Values (CC)
+BST 344-2 Human Resource Management (CC)
+BST 345-2 Project Formulation and Management (CC)
