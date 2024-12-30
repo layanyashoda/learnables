@@ -69,15 +69,31 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
         Industrial Biosystems Technology 
 
-1. ESD 311-1   Communication Skills II (CC)
-2. BST 351-2   Introduction to Natural Products Technology (CC)
-3. BST 361-2   Independent Studies and Seminar in Biosystems (CC)
-4. IBT 301-2   Biomaterials Fabrication Processing (CC)
-5. IBT 302-2   Sustainable Bioenergy Systems (CC)
-6. IBT 303-2   Industrial Enzymes Technology (CC)
-7. IBT 304-2   Process Design and Optimization (CC) 
-8. IBT 305-2   Green Chemistry for Sustainable Biofuel Production (CC)
+            1. ESD 311-1   Communication Skills II (CC)
+            2. BST 351-2   Introduction to Natural Products Technology (CC)
+            3. BST 361-2   Independent Studies and Seminar in Biosystems (CC)
+            4. IBT 301-2   Biomaterials Fabrication Processing (CC)
+            5. IBT 302-2   Sustainable Bioenergy Systems (CC)
+            6. IBT 303-2   Industrial Enzymes Technology (CC)
+            7. IBT 304-2   Process Design and Optimization (CC) 
+            8. IBT 305-2   Green Chemistry for Sustainable Biofuel Production (CC)
 
+
+        Food Technology
+
+            1. FST 301-2   Food Chemistry (CC)
+            2. FST 302-2   Postharvest Technology of Fruits and Vegetables (CC)
+            3. FST 303-2   Food Processing and Preservation Technology (CC)
+            4. FST 304-2   Bakeries and Confectionaries Technology (CC) 
+            5. FST 305-2   Food Equipment Design and Fabrication
+            6. BST 341-2   Mobile Applications Development for Biosystems (OC)
+
+    
+    Semester 2
+
+        Industrial Biosystems Technology 
+
+BST 301-1 Experimental Design (CC)
 
 
 
