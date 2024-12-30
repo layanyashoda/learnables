@@ -122,5 +122,17 @@ NOTE: Compulsory Course – CC, Optional Course – OC, Non-GPA Course – NGPA
 
         
 
-1. BBST 461-6 Industrial Training (CC)
-2. BBST 462-8 Research Project (CC)
+            1. BBST 461-6 Industrial Training (CC)
+            2. BBST 462-8 Research Project (CC)
+
+
+    Semester 2
+
+        Industrial Biosystems Technology 
+ 
+BST 441-2   Entrepreneurship, Innovation, and Commercialization (CC) 
+BST 451-2   Advanced Analytical Techniques for Biosystems Technology (CC)
+BST 462-8 Research Project (CC) (Cont.)
+IBT 401-2 Biosensors and Applications (CC)
+
+
