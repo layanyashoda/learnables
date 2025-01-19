@@ -1,0 +1,30 @@
+ICT - Bachelor of Information and Communication Technology
+Honours [BICT(Hons)] degree programme
+
+1st Year
+
+    Semester 1
+
+        1. ESD 121-1    English Language
+        2. ESD 151-1 /  Sinhala Language I / Tamil Language I
+        ESD 161-1
+        3. ICT 101-2    Mathematics for ICT
+        4. ICT 131-3    Programming Techniques
+        5. ICT 132-2    Fundamentals of Computer Networks
+        6. ICT 133-3    Computer Systems Organization
+        7. ICT 141-3    Electronics for ICT
+
+    Semester 2
+
+        1. ESD 111-1    Communication Skills I
+        2. ESD 122-1    Communicative English 
+        3. ESD 152-1 /  Sinhala Language II / Tamil Language II
+           ESD 162-1
+        4. ICT 102-2    Calculus
+        5. ICT 103-2    Introduction to Statistics
+        6. ICT 111-2    Financial Management
+        7. ICT 134-2    Database Management Systems
+        8. ICT 142-3    Internet and Web Technologies
+        9. ICT 143-2    Data Structures and Algorithms
+
+     
