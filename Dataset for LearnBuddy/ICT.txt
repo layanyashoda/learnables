@@ -28,3 +28,33 @@ Honours [BICT(Hons)] degree programme
         9. ICT 143-2    Data Structures and Algorithms
 
      
+2nd Year
+
+    Semester 1
+
+        1. BGE 211-2   Aesthetic Studies
+        2. ESD 221-1   Effective English Usage 
+        3. ICT 201-2   Numerical Methods
+        4. ICT 231-3   Object Oriented Programming
+        5. ICT 232-3   Information Systems and Data Modeling
+        6. ICT 233-2   Communication Theory
+        7. ICT 234-2   Information Assurance
+        8. ICT 235-3   Software Engineering 
+
+    Semester 2
+
+        1. ESD 222-1   Explorative English
+        2. ICT 211-2   Explorative English
+        3. ICT 221-2   Professional Ethics in Computing
+        4. ICT 222-2   Independent Study Project I
+        5. ICT 236-2   Business Process Management
+        6. ICT 237-2   Systems Level Programming
+        7. ICT 238-3   Object Oriented Analysis and Designs
+        8. ICT 241-2   Human-Computer Interaction 
+        9. ICT 241-2   Statistical Methods
+
+
+3rd Year
+
+    Semester 1
+
