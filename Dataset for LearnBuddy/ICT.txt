@@ -56,5 +56,39 @@ Honours [BICT(Hons)] degree programme
 
 3rd Year
 
-    Semester 1
+    Software Technology
 
+        Semester 1
+
+            1. ESD 311-1   Communication Skills II
+            2. ICT 321-2   Independent Study Project II
+            3. ICT 331-2   Advanced Database Management Systems
+            4. ICT 332-3   Software Quality Assurance
+            5. ICT 341-2   Algorithm Design and Optimization
+            6. ICT 342-2   Cloud Computing
+            7. ICT 343-3   Web Service Technologies
+            8. ICT 351-2   Mobile Computing
+            9. ICT 352-2   Rapid Application Development
+
+        Semester 2
+
+            1. ICT 371-6   Industrial Training
+
+
+    Business Intelligence
+       
+        Semester 1
+
+            1. ESD 311-1   Communication Skills II
+            2. ICT 321-2   Independent Study Project II
+            3. ICT 331-2   Advanced Database Management Systems
+            4. ICT 332-3   Software Quality Assurance
+            5. ICT 341-2   Algorithm Design and Optimization
+            6. ICT 342-2   Cloud Computing
+            7. ICT 343-3   Web Service Technologies
+            8. ICT 361-3   Operational Research
+            9. ICT 362-1   Sampling Techniques 
+
+        Semester 2
+
+            1. ICT 371-6   Industrial Training
